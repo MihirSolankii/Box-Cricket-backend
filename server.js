@@ -21,14 +21,22 @@ connectDB();
 
 const app = express();
 const server = http.createServer(app);
+const allowedOrigins = [
+  "http://localhost:5173",
+  "http://192.168.0.226:5173",
+  "https://nonsolidified-annika-criminally.ngrok-free.dev",
+  "https://box-cricket-frotnend.vercel.app" // <--- Added your Vercel App here
+];
+
+// 2. Update Express CORS
 app.use(cors({
-  origin: ["http://localhost:5173", "192.168.0.226:5173", "https://nonsolidified-annika-criminally.ngrok-free.dev","*"],
-  credentials: true
+  origin: allowedOrigins,
+  credentials: true 
 }));
 
 const io = new Server(server, {
   cors: {
-    origin: ["http://localhost:5173", "192.168.0.226:5173", "https://nonsolidified-annika-criminally.ngrok-free.dev"],
+    origin:allowedOrigins,
     methods: ["GET", "POST"],
     credentials: true
   }
