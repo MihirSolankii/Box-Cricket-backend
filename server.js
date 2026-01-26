@@ -22,7 +22,7 @@ connectDB();
 const app = express();
 const server = http.createServer(app);
 app.use(cors({
-  origin: ["http://localhost:5173", "192.168.0.226:5173", "https://nonsolidified-annika-criminally.ngrok-free.dev"],
+  origin: ["http://localhost:5173", "192.168.0.226:5173", "https://nonsolidified-annika-criminally.ngrok-free.dev","*"],
   credentials: true
 }));
 
