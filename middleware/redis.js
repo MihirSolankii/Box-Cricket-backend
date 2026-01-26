@@ -4,8 +4,7 @@ dotenv.config(); // Ensures .env variables are loaded locally
 
 // 1. Try to use the environment variable (for Render)
 // 2. If that doesn't exist, fall back to localhost (for your local Docker)
-// const client = new Redis(process.env.REDIS_URL || 'redis://localhost:6379');
-const client=new Redis('redis://red-d5rfm1a4d50c73916jv0:6379');
+const client = new Redis(process.env.REDIS_URL || 'redis://localhost:6379' || 'redis://red-d5rfm1a4d50c73916jv0:6379' );
 
 client.on('connect', () => {
     console.log('Redis Connected Successfully');
