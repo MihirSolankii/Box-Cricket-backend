@@ -10,7 +10,7 @@ import AdminRouter from "./Routes/AdminRoutes.js";
 import UserRouter from "./Routes/UserRoutes.js";
 import BookingRouter from "./Routes/BookingRoutes.js";
 import grouproutes from "./Routes/GroupRoutes.js";
-import SettlementRoutes from "./Routes/SettlementROutes.js";
+import SettlementRoutes from "./Routes/SettlementRoutes.js";
 import setupCricketSocket from "./socket/cricketHandler.js";
 import { Server } from "socket.io";
 
