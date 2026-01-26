@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Razorpay Test</title>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+</head>
+<body>
+<button id="pay">Pay</button>
+
+<script>
+var options = {
+  "key": "rzp_test_Rw83ErHFAcrloP", // Razorpay test key
+  "amount": "120000",           // In paise (so ₹12 = 1200 paise)
+  "currency": "INR",
+  "order_id": "order_Rxi7NW7FtKsXKH", // Must be a valid Razorpay order ID
+  "name": "Box Booking",
+  "handler": function (response) {
+    console.log(response);
+    alert("Payment Success");
+  }
+};
+
+document.getElementById('pay').onclick = function(){
+  var rzp = new Razorpay(options);
+  rzp.open();
+}
+</script>
+</body>
+</html>

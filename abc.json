@@ -1,0 +1,51 @@
+  {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.3093036,
+          "lng": 70.7428963
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.31083877989272,
+            "lng": 70.74390357989272
+          },
+          "southwest": {
+            "lat": 22.30813912010728,
+            "lng": 70.74120392010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 96646 15321",
+      "name": "Face-off Sports Arena",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106471739196244163351\">Face-off Sports Arena</a>"
+          ],
+          "photo_reference": "AWn5SU7y0tAeJ4I3syLDsLhWAjiYPtuYzUNNzpMB79K6x0A_J49oCmGrnCPn2JuCITR0UXBTeItIT_FubALI4GdssKLeWErdSZAcLie9Fdy0UEc1ZiAea3stWzv0YUVnmRBT5FIiivkgHmfM_NXBpaMekjeCzspqyQvy8ZG_rrJ6ZSh33lqIDoPPGn7nYdrPYVi5UfGRve_z5mBNVNojJd5amhxpjshxH3079_mczqulHDrnDOHx7LuVrgPH-ylRwjxvX97vridJv_LLl-f-ZZLMnG2WQOzU2QC355oI3N3Lfcr6XoivQo4",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJK_W2-kTJWTkRmqAvZdqOk4c",
+      "plus_code": {
+        "compound_code": "8P5V+P5 Rajkot, Gujarat",
+        "global_code": "7JJG8P5V+P5"
+      },
+      "rating": 4.9,
+      "reference": "ChIJK_W2-kTJWTkRmqAvZdqOk4c",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "RMC light house project, Smart City, Near, opp. Atal Sarovar Road, Raiya, Rajkot"
+    }

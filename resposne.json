@@ -1,0 +1,1781 @@
+{
+    "success": true,
+    "boxes": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kalawad Rd, behind Motel The Village, near Tea post desi cafe, Rajkot, Vajdi, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2619458,
+                    "lng": 70.717081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26355587989272,
+                        "lng": 70.71815057989271
+                    },
+                    "southwest": {
+                        "lat": 22.26085622010728,
+                        "lng": 70.71545092010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Big Shot Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106608059104179808719\">Fakhri Trivedi</a>"
+                    ],
+                    "photo_reference": "AcnlKN3HNx6t4zh1Ot2hgH697qI3Hz5wYMyzRp9MZe9RTHy8Y0W3FX-4jcrGgik3Wp8VFU3mFuqKPGQ07UWXnSZmRFv1YJhyoztTG6EBTrVf6F_AJ74qt7bYFufx995V7atKDp1sf8AMoS6bNQ8AmH1oL92eNeegHXSR_OFKOIp8lWEZdjwUFynsvjxFw7FP7bKD5Dy_oZDykYtxT6-qRR2HaQdBCvxgaAlgQ1Ih6Eg9tuONddAxVFkEyg23Wg9IvGMLXzD7E9ngRWshls1HXYRKRmRDaHKQDSCKG9OVnBtNEW-DEAeNGosZ-P7zYTsNXrjeY4VrT-lL0Uyx3X8BfgDbTF1YY-94Z3AmBa28CwCdKCxHQW1xDZPTq1FeANF4Pg2IuJGnyUpWDleH0hIoizsubzNfRijdxLnuvMxxJ3julCGVqeMib54BTFGMhZSceNgNHXgoO7qYpz3L9Q00k1BD8sCdnjXNFdBL61EUrMg4nMBNiqnXW7zUlAZQFFW-wdvSulO-vIcol2WTe3UxoI1_nB72IL1OKztCWt5yffQaakXRAa6P6nNcfmxIOZoMDkq401QFpw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJP8RLeD3NWTkR9vFgNSsH_5U",
+            "rating": 4.6,
+            "reference": "ChIJP8RLeD3NWTkR9vFgNSsH_5U",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 170
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "60 Feet Road, opposite Taluka Police Station, near Jalaram Fast Food, Mota Mava, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2728337,
+                    "lng": 70.7476215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27411922989272,
+                        "lng": 70.74889877989273
+                    },
+                    "southwest": {
+                        "lat": 22.27141957010728,
+                        "lng": 70.74619912010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Infinity Sports Club - ISC",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110872012243438258160\">Dharam Patel</a>"
+                    ],
+                    "photo_reference": "AcnlKN1tJHNV8PjnDI3mexZrxmA9T47Ts8dtRYZLXVVGGhT8RqedVkLdmRPVljKGFzoayMdCrZmdYo-zN1113XCIhtAm5b6_mtx7Kzla4-cEOb3wlnDIWCDnf67dFgFZqs2gste0OTRyRfIjgw1CDl8cGsdLo7Ryj0KvrVje4pEKaTO5Ag4veJQufo69FYOHmRym899WjX80VqM5DW9cFzMe5qavUl7OHpy4nr4l4nr1bQkGpVX7j4o1jWptgL7MNb2FjlXEL2XP60vNuf7DGzwlXf3EI1r7iK3B1fMbPmp_FlEq6BDAm4G-pggKRJEa00QLWbU-VampFbSXPYy1g06_2ujtBeFmZQEgu6Ks7OlyTZjj0oCxcEQAzVk4D8F8UxI4kC5zg2ZTpqhKY2GRI7okqjXi8HB5G9ffurf-nc_WnDhFNYDvj0u9pQRsNhRr9PUDj0Y3u9sOzee8pQPqQR5GNQuoEZ2zRR_Petr_oWTdqRYoIroknJGQZuCiaAO_p2HKbNShgBWOgjU5UUeqE5qFTuJSUsqyPuOz6ey8_4Xutpmu2Ed8F4zDWwk71cDCEYjBWl9jNgbK45KTDw",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJE64Q9cTLWTkRrMJ2KXgiDrk",
+            "rating": 4.4,
+            "reference": "ChIJE64Q9cTLWTkRrMJ2KXgiDrk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 564
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rajkot, Gujarat 360004, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2412593,
+                    "lng": 70.7662332
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.24259957989272,
+                        "lng": 70.76774472989273
+                    },
+                    "southwest": {
+                        "lat": 22.23989992010728,
+                        "lng": 70.76504507010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "KingBox Cricket Ground",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104351642880500415620\">dishant patel</a>"
+                    ],
+                    "photo_reference": "AcnlKN2EvoggJflmAgHbLEcePKYOuFcMwhh-gdtkO2ncTJDbXdeH4vLsG7gxVJ5T65fkapxsimZ1qnVxR3IoRxaDcRzYfSJ6Ws6Nja30Ahi2utWZTB1aT7u68Dr7mxKUw4NzN6_wOpBh8AFdSqKnVggosPt4fOVDIsib5LYzAgnxfvoTihXq70zF6BJU9tapL7qEUxDZt1RKSpPq8Yz5LrimLgB0ewwPn8XApQERMLZeuLnNbA2KaIXtXyVOj7jTVICzKYddqGHz1ow5mjN1QX03D2hSSz_mEP6oTO67VHyMgaUvJvcn13yQ75Ja2HZ33hTnEu0trzIplTrnsL9OupmUBrKzAJZxpF1ykeq-L_9cpvY54RGZWg3b7Bym3lWKoY00AEd6B0WgmTP3h5Jv-qpanVQOWzx22a3w_fhfCFeEds7JBAeb3P5vhwKjQfMW6er0WRanRwszQuCxf345Ks9VzEi5fZsrxPnxcoJHiuQeUmXQSAOMZCkFf9_c-jeHZHGpXeB_pedWo4KWSDJjRH67x738iMmjJqxEm-92Dstavp5xj4D2AlHt4eo9v7_sG78lSCM7Hvi1",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJRfNoZHfLWTkR6qYTkE2Z1to",
+            "rating": 4.8,
+            "reference": "ChIJRfNoZHfLWTkR6qYTkE2Z1to",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 90
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2nd Ring Rd, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2772684,
+                    "lng": 70.7403497
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27853142989272,
+                        "lng": 70.74167782989271
+                    },
+                    "southwest": {
+                        "lat": 22.27583177010728,
+                        "lng": 70.73897817010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "CRICBOX",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105575303390215899171\">Pranav Monpara</a>"
+                    ],
+                    "photo_reference": "AcnlKN0HdmD7QPf5pCTMOZiWw3RcCZo64VEHu_yr3wLaR1wdFrBaYW65lzFAslpuL0WmcMzuVnSjMEzaYe8RN5yK0DVnBmi4imooB3Gyy6lTsMd4_nOClNcmuNm2NE7kZt3qNKBgu4zn0z6wYuEHxTK7dmEhuevcbNd0LHt9BpsaPygpeq7Dw1JfSWmrfHjeYKnwHYHP8a-22ZKV4ZwgOgctlH-G48iBRyko03qGZTzt7kjRTtk2uqJ8hHjBEFBON8M0nSz3kxUwpVv9ZiwRvz4EXLfCrLYkrZqqaMTegUPFjbXl7R82OKuL3sY-uLNLEQyVtH2nTurLGPqh7HaWvSgg9ADEJBCs6jgTc7LwqupGACemCIUu5ZCxc1RvnudPJhqoMTkQmxMKPWFB6IJLEJOxT75-CUiVCzc_Mz8PuiV8Obu7Mbqjp9ks-8lQQ959WU4r_pdc57U1XHmxVN6HRaJr1CfNtENXVLC41drUEPOCWDmTuvQFTRjS4zxuKwCPYabqOm9_Wzb-3K5U6RsjkrlA8mSOcIcbsSKNrF8rLmMWqzdythlrarcNZPgMR9PxosWg6_zgJQj7",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJnfWW9RbLWTkR-KNgT1YKjDw",
+            "rating": 4.8,
+            "reference": "ChIJnfWW9RbLWTkR-KNgT1YKjDw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 69
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "delight party lawns, New 150 ft, ring road, b/h, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2848241,
+                    "lng": 70.7330242
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28618742989272,
+                        "lng": 70.73429597989274
+                    },
+                    "southwest": {
+                        "lat": 22.28348777010728,
+                        "lng": 70.73159632010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sky Box (Gujarat's Biggest Cricket Ground)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116514478386213204593\">Sky Box (Gujarat&#39;s Biggest Cricket Ground)</a>"
+                    ],
+                    "photo_reference": "AcnlKN0nM3O4rsrPflWK1dbNBIIg_Q1roAMRatYGsrVxTojWCdj4U6toYq1d5TgylyVFc6MTkEXI3aLgZhwLSNInMnZ2k9rWCRnMVXEsuNqxOeep78V4Jjyh3PeWJGP9f9xgrx5GRAoLG2xA8MrnbsfJl_4QYpf4cr7yWusFbYLG8HubKQ680oJ5p8VCCbsqyw4a5J_44r-G4Xw2LIyErw059vO99EAataDQW-v7OceCiL4fRREZxMQbzw64JyYu5-RZP4FbuJepSCYhX5RmhWKcIPr58pM2qgXgYmkA3We7ozqWTtg4YZE",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJl8GZJaLLWTkRUaZ3ofwPSLU",
+            "rating": 4.6,
+            "reference": "ChIJl8GZJaLLWTkRUaZ3ofwPSLU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nirvana Rd, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2798669,
+                    "lng": 70.7336542
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28122092989272,
+                        "lng": 70.73514627989273
+                    },
+                    "southwest": {
+                        "lat": 22.27852127010728,
+                        "lng": 70.73244662010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sports Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101036263385967363908\">Dhaval Solanki</a>"
+                    ],
+                    "photo_reference": "AcnlKN1k2zi0mlI5d_TUQl7_WceNZQgN3Tflvl3CX2yHGHANH_qvyPUgr1NSL1VwbATZ5wFs1miW0XT_lBa4xY6J_CuEGXOJjAnApMT92GQUEmtMvledwbQ3nLVzBhUxMyZJRgtdPo87TlnrPTfI7Oizn2l7LKFAJD_k1lTHF3ym8IrGTSYEy-u7rposcLXh5gmjccVLVUMfnyXf2n3JBpdZz-ee0x6cbIpFnl38n6jr48Zhd3IPp5NWdxMQuugtdVeKVFXOCLheFuGAGEAy4JvO6m_DbxIL5b3d4XEMUBr8XInAiM7AGH-t2fLmi_hOMaDenFCoy6QNgUq3OqdMM4TH3weNeg0gKjQiOUi1D2LQKfiDyo6G9VfhI4FRbVLzONOeOQa_6XOJJbNRqPKMhjm_2yqk50N89kG6f897riEj5IMta_lHdNSCZz4FsUVrS8xVAL9J6C-8yyO3A8RdX3gli7-pAZRrOB0IGJuVXXjAZoXCuC4obOo9HXxgptJqWGXyuubNMUsIrdiQbSvHr6HC7faKvC7rom5CV3rS44oBQN6pmz_hIRBTIgelxjz2bJWu1kgI_eOD8a6vGqEYwB5DPSRZJRE",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJ3xB0SOHLWTkR6LKSXv8wk1w",
+            "rating": 4.5,
+            "reference": "ChIJ3xB0SOHLWTkR6LKSXv8wk1w",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Virani High School, near, Hemu Gadhvi Hall Rd, Rama Krishan Nagar, Rajkot, Gujarat 360002, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2884149,
+                    "lng": 70.78950379999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28988682989272,
+                        "lng": 70.79075547989271
+                    },
+                    "southwest": {
+                        "lat": 22.28718717010728,
+                        "lng": 70.78805582010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lords Box Cricket virani school",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106266271061551507458\">Ayush Adesara</a>"
+                    ],
+                    "photo_reference": "AcnlKN1z8dLtQdV1M-nS93IC0u4jtFRsQudjpPe871Z4YqMAPOz1_6lUWyQNa8G7MVXDAwee9_LgzMgnMlVZKq7a4Udk1NSut-YasvXHWhHvHwhUmSTxkoDcuOWovBvMgfHvgA5ct1hawkje0xoCo5wuKN6s9krTv5T0muMRhtvGFj1VEr1a_mVguCSCtq-JdvqrZA8Hx0B7-_rHxkp0Kk86rD48mNK_JsS9AJxchOea0uGpuIGf1UVd7iOkXyN78_BfZgf5sVflsRuL70zhfDUJGOA8MRigQrb0pUhSk0mL2gOPx7GSluKLQZUEh0Htor1URpJqJ94-8EOEiXQWTbD_x4lvBH32nt7iv0r-iolcRjz-1BjOvldjKLC34xmqeDkqvNofjBOsMscTob4AOggxmlHvI-mpHGloqYm843pVePmRi6VQE70dFyBl67O4-pIEx_L_SuCndIPtFWtk_GW83ohrqybfLLtUA5wAhg07-4PuFPnZ0JhIYfuvwYuDNoCJq63KEFd0QmqG6kbLjx662Ux4EeC8xVo05b2Qa6J-iuGAcu4n5P75V_KjIx918YdjsmH6pcdzDmRp0A",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJVQS1vf3LWTkRI8Ft8HTuhSw",
+            "rating": 4.3,
+            "reference": "ChIJVQS1vf3LWTkRI8Ft8HTuhSw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Opp T N RAO Cricket Ground, Gangotri Park Main Road, Patidar Chowk, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2934904,
+                    "lng": 70.75082189999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.29496477989272,
+                        "lng": 70.75228282989272
+                    },
+                    "southwest": {
+                        "lat": 22.29226512010728,
+                        "lng": 70.74958317010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SPORTS FIESTA BOX CRICKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103672153792802948811\">SPORTS FIESTA BOX CRICKET</a>"
+                    ],
+                    "photo_reference": "AcnlKN2oIdmKIRAPRsghTg7Y6IKsQwJramNumxTKLwaZFVYbXgXPj1xkBpFgNo0rg9xeZe3cK_82ZSkMPbYdBVTwSYMJ3_2qpvgwKEB3ic5fXgZksjgAFvk9Z-5T8wSI6Zn6gJtf7KzC7k_aM4j_-mRPcTfObc0YNqcCmI1dRPNELiZi56GpzZFaLNL-5Dy0KwBzU219de-mCCzVwaJgZsK-2fj5y5HmhBnNriZmojwC_Ia2KPG5-4r5emydPNhrJZj-mQDMovBh6DtDv_U5D3MfU42DJCMgmApfwXCJTcLmh4kzikSenb0",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ4Z1zOaXLWTkR52lcO1YwrqY",
+            "rating": 4.2,
+            "reference": "ChIJ4Z1zOaXLWTkR52lcO1YwrqY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 136
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Nr. Babyland Hostel, off, Kalawad Rd, opp. Domino's Pizza | Jala Ram Nagar, Rajkot, Rajkot, Gujarat 360001, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2875369,
+                    "lng": 70.7765082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28888277989272,
+                        "lng": 70.77783587989272
+                    },
+                    "southwest": {
+                        "lat": 22.28618312010728,
+                        "lng": 70.77513622010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Optimus",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104724540042833262894\">Hardik Sonchhabda</a>"
+                    ],
+                    "photo_reference": "AcnlKN2lYpFrOHg6Sem91SELux61vytCIqkYdTUig4xApxtSTv9uPXjgSuBZP_SdVEFTQeR1snXDzphhUmeS3R_xUa2hfBltMLWUlv1JNQXHslevTuctt5RzgGUG9hacCSoju__jUCw1I7d-LwHOunYpeCbd5izU0p29sfeydUfZ8eM_RqsxrjlPnlXr4U6tQogLQ4eN9eJWTEU758fvD05oFpbB2j-k_7bsrN3M4GfDbwxbfDgCpxfW8m60WuDyZEKVw74NuMwvRFTkjrkWjxF7D_TD30kdyKfBMC3-848Tv5EteGag4ln4OcjXVpzszZIfPDUnzENgH7yoOVVUXC28ygmopL80GFpw0XjJJZ21kYoEpULLiJ30LFekSlaI0ZXh4vy8FaphnZQ7OS1HKFs20DpsU90uHv_xsqIqZw6WfIj07GFtHQ_3d5Hvn5Q2fZKUDGscFu2DUzTeKqvdHMxmqTItOrJcBWyYQQkzBE9Gj5_FExUf1S5U7iKxaUAMZ0GOLjqWEwpBi4gpZuzMWxttoXteCbsDMQicLG-ibk1xEV0AY4bDc_FP4ENSgY2Nty-I0k3uxIQR7NAEPw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ90oOpkPLWTkREcZfkFOWtjA",
+            "rating": 4.5,
+            "reference": "ChIJ90oOpkPLWTkREcZfkFOWtjA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vajdi virda, મેણંદબાપુ ની વાડી, Kalawad Rd, near nyari dam, Rajkot, Gujarat 360021, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2498828,
+                    "lng": 70.7068084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.25112542989272,
+                        "lng": 70.70794592989273
+                    },
+                    "southwest": {
+                        "lat": 22.24842577010728,
+                        "lng": 70.70524627010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Vajdi Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115405523306894867858\">The Vajdi Box Cricket</a>"
+                    ],
+                    "photo_reference": "AcnlKN049FPY_LljkMTfoCbPpxxUUb7LP2WTBIQE38tr24Hpx7sS3sCBV8ZUcloCCvLnBxyTKmgxaYjn7hqK69REJkYpSKp4mii44Jz90vtnVAO4YmB4VcObBf3X6JzfKFLOUgGeuYPrB5hHV2r8QWbROOd7i_OZnANX1mkJoYycGyO8DFqK8zJPokk-bh-mH7Itk8CkjaZDfFjBdFv8zF3eoCZJQgbGMR-B2mdoS1pThFAeug1bXYzWpLMAEMI3tUH9jHzHMbCNi0nngeDHWJaiBgctstpBGHaCMrj5v9C3h7b7JT7BrUE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJLdT-f0LNWTkR9c5d3AI1grQ",
+            "rating": 4.8,
+            "reference": "ChIJLdT-f0LNWTkR9c5d3AI1grQ",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gangotri Park Main Road, near shilpan Nova, Yogi Nagar, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2930638,
+                    "lng": 70.749516
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.29443937989272,
+                        "lng": 70.75099602989272
+                    },
+                    "southwest": {
+                        "lat": 22.29173972010728,
+                        "lng": 70.74829637010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "BOX & BOUNCE BOX CRICKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101276632155695675616\">B&amp;B Box &amp; Bounce</a>"
+                    ],
+                    "photo_reference": "AcnlKN0moEYEB2t8b6ZJmrSpzbEUzU10NRlqf5OWNinjvKXkcoq724MYapcVbDlW3gB9N7DS-dYXtTE7N8GbkyEmK_EuQ0H2pBhnJBg0_0trhEd2SvCDA2JVCBRtpcyq5c0Y6jhPXpkedavtj4yBiRQduWSJGD6Gw9Iip7cQhMO9eyNOtQsP6l0q7T_7jdkI7TaqfdnEoVNxDFySIoPvdG-nrjADArTvDCgIpEegFXGBousSRxW6TrX9g2fYXPdEd7YmkHdEWPNSsi1s4TpKbI4dp_sbEqAmPurJJprnqwKLECkmsTJYwqEevbrmY82fjkjf-TTLmhEIHAEg-2VYI_zbDOEJ05Mz1zyUdKvcinf8WBHHGQ-yZ0Kft1BVXvjXer1CHHCzbanCezdxEROXGzt8w71C4nUc34shbBucy8CZoItp1qZE_E1F7MxEwGqUrVgtRdjVR8axaJAJDHPOQZmdfyhMK7LdwEpdjmK91-cyi3Ir5mhvLbvU_Ec-YrE2VAKddRX1upje1bgW8713Cn8uXISbDSY8oJDgjxFHmPt1W-aV_2gRq8YR6RNyEBrDYtJ5JD1FRveQWRU1PA",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ0-phlfrLWTkRYeZhEBZZJkM",
+            "rating": 4.4,
+            "reference": "ChIJ0-phlfrLWTkRYeZhEBZZJkM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Synergy Hospital Road, Ayodhya Chowk, behind Akshar Party Plot, Rajkot, Gujarat 360006, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3236204,
+                    "lng": 70.7694599
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.32478122989272,
+                        "lng": 70.77083467989273
+                    },
+                    "southwest": {
+                        "lat": 22.32208157010728,
+                        "lng": 70.76813502010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rajpath Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113586842840906781822\">rajpathboxcricket</a>"
+                    ],
+                    "photo_reference": "AcnlKN32Ig3bGTKtT0tVi8_6qD015EhIR8VsWarqY1pIgzhzd9M-IyFvl_TnhIC1-7Ne8Dddeeab78GP8CC2W0RYuNiO-_vUmP6ITw__o686mYGXfU7-OzjjEJTcZFszEJvf6p6-3AUKxOF32qEgU4ifyrreKs6nS_OpcXJ7MxVBrngdAPnPk2Vp3p9KJum_jv1s-WlloNgTjJ7Ihma6IZTecvUWTBiPH2dV_vIMJaISmekyzl8GlrmNywst1KREPqY9iUv9hE0ZdqjXh6NdaWtZPiu_uNl01_6iWi9juNw93eO4sq3GlkezlspQmhRCzvm4TsGvyxib7o1Pb6An0rrZeYr5zgdL4EoWqHTlv5T6h-5N6cTzp4uxQb1MtoTq4CQcgWa3NFcg-vNGRb2zMAJM8X1KR5Cjyoi9yapoIiqFBCByXWbWFkwxBvU5fKEyRw1VfqxDJwRZcGQ_00eSgWPRRDjEoVwVbZgGyLKRLxewFVNgez8_IysPVvCf0qTN8JMnEDA6QpYjvi8wUAKf3ZUu-CVzPwbS4biAjp9T__6lWfBKuBDaESq1HsCwo7vOO5pMJdixORUK",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJdRyW9yDJWTkRyJKbVjcTyKk",
+            "rating": 4.3,
+            "reference": "ChIJdRyW9yDJWTkRyJKbVjcTyKk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "mv marg, behind Cosmoplex Cinema, Mota Mava, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2715893,
+                    "lng": 70.7424671
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27293662989272,
+                        "lng": 70.74384512989272
+                    },
+                    "southwest": {
+                        "lat": 22.27023697010728,
+                        "lng": 70.74114547010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ball Box Arena",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108502638393529780128\">nihal patel</a>"
+                    ],
+                    "photo_reference": "AcnlKN21vw9PqJbJAQtsAYKMolLApCpBiCIUPAMj3SEXYPty1sS7BoR0-jmKr141em-iKVVnW1zPoZA2j76gwf_btxxyOGYYbWAeVJjLQca3gk4pHK66ozFnjYhYLIEp_NA5TEOBMZFsfI0Md-JDrtolT2vNZLyNXMKF6YUaz6dtvj4iKctjhwPFwQcSHG98RqNB_zk83NNAAGukLEpGeoiI5RvYMLWXgm7Er6XvAEyXkKYebHFZ_BVyjjoaqSlBfsLYJUFlMGoUNsXnYk9GWJKZVWhzjT0MLnGmQRjIJwgEQ5pPm_JdIFckspKK4PiKlf6ODY4-cdleEiNrkxwWeSO9Jk3S1OkSMokFsgev_NThRbDVIZ24ax2zfzp1MZ8EbYV26ZuqlfH3DlnGW2-kQz-UMMFe2Z2M_Sn1-qzgHmTXHuAVCFve6b8NyIvR0EE_4Ok8K5JB5ZF7N9R2IQTbtJ5RGtZ2vZKybTz3dk2Gu8RXvE6EejUO7DU5dWjUd8swJxBDBwC-IECZJW4U2h9wrkOYKb1KyWSsAmHCIE9nqakmx4dhGfjsWmrXb3Lqsb5ci_6p1V6ky18hcnFvew",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJc10KaADLWTkRwWF_IrKyV4Y",
+            "rating": 5,
+            "reference": "ChIJc10KaADLWTkRwWF_IrKyV4Y",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "opp. Palm Universe, Saurashtra University Campus, Munjka, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2945584,
+                    "lng": 70.7473387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.29641847989272,
+                        "lng": 70.74855342989272
+                    },
+                    "southwest": {
+                        "lat": 22.29371882010728,
+                        "lng": 70.74585377010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dugout Arena",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116778194714875169162\">Param Mehta</a>"
+                    ],
+                    "photo_reference": "AcnlKN1L7iuFHvc5vPosArNoUYH8dbPREUb-4-Dz3zajJhITUSernICG0qV2Zzyw3jIEoY8pwQO3V2UPZNbQJNXGM6run9S7VdHaezwKqGfWF1QKEUrc6BtnPveyKkKAu1snypOahkrhJ-3vryLCY5BWx5VQdMECzdZfjBXOU0Cr-QlGQrAro9NzzbpdG1kpij5kMHQoen0PxPH2qCc7j_Nxg__bRKurPDlnVXEs6fmeSk0HwtBUthnqagF9VTgE4xlP2vV5S7TfmAybxc1qJIjtw3C5Ev-4U7ET4jpoMbQqQb6c0XjIA6WaD1bC2IptGkzhto80kCbb044osWpK4KBxLlxpX80YrYie_eDI3K1lYdoimSVn2VsEQqTtjLRGNPmqR3LDQ9B9Krbq3t2GVT4-InRP3qbDkTFuwObjLw3fyIzwqEpY0n6ea6wzevVMhfoKE-Vp2eJ1jqrH16jeX8PYWSb4NuyVkAMmU76c3BN2JhzkxDY-vXKhfFUnwap_s8KHC5_o9g8U6PTll3mmLAGW59uS6YQMzMXa77jsFxTJsNhSqpItyLbQ7GA6bxKRsm4X-xF1WTjJ",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJwfQEIW7LWTkRbg0OoLJqIp4",
+            "rating": 4.2,
+            "reference": "ChIJwfQEIW7LWTkRbg0OoLJqIp4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 58
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "bus stop, B/h Virda Vajdi, opp. Dhareshwar Mahadev Temple, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2633415,
+                    "lng": 70.7083152
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26471032989272,
+                        "lng": 70.70967987989272
+                    },
+                    "southwest": {
+                        "lat": 22.26201067010728,
+                        "lng": 70.70698022010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pavilion Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117131154988995907106\">NEVIL VEKARIYA</a>"
+                    ],
+                    "photo_reference": "AcnlKN0AYFBbptj6e6UNDHjv-l8jr42DNa7aT0zgz6qprGURHaDjE1G0gYDEPmYZ_QnBRGyS73JxDA5lxlDyJNa6VXczokJqqq7-OxCKAL_wGJyTCbulVrNvkcnUcGpOBJ_6pJpnCcIGh-DuQIJWkb0KdBygfQAPZFiAX8jvlkaCAwBdZLwNdgD-j0hy6u7ENPOxusOEbicVIXU0APHGrALI7U1AzN0WKMh462pRcwre_iMfgEsERfG4qmvkyqTD9KtdH5_VDCdCXTrJ_d3F3B71hCfVdjcJ8BlKmDx7tdxN5oxKeoCEk6G5zFk5wTMcN74odb4aEoKWgc4-3Geilw0GWXOU32T3hiBrvW94BJ8cb0oE8XvZpHsnB8RQu2vcWHZxJm8yVjJ4GbvtVm4BzjxNxmrnoU6nShpqERv4IT-pd2qKJdrrAudVL2LR4em43P3BUXynt_537jhpXKjTx8UOG-qpPBL6mruiUEKR6l5IkcQ8QqcfjwPWfs3KK57_JIEJpVUXsii2Um_IcSEzI1NEjUSa320hbQ8LT_j3WQP5f0aWPo-EJwlETafEbGEnRc5lkkGwv5ni",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ22dfV_bLWTkRwLujiVSRzEw",
+            "rating": 4.7,
+            "reference": "ChIJ22dfV_bLWTkRwLujiVSRzEw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7PFG+MV4, B&B Box Cricket Beside Hilltop Cafe and Restaurant, Decora Road, Kalawad Rd, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2741378,
+                    "lng": 70.7272061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27507707989272,
+                        "lng": 70.72820457989272
+                    },
+                    "southwest": {
+                        "lat": 22.27237742010728,
+                        "lng": 70.72550492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "B&B Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117546439080721472394\">Sunny Rughani</a>"
+                    ],
+                    "photo_reference": "AcnlKN3tgOQRBux1-0LfmIRxrflLiY-SrdxqFfdsw_B8WH18SL8UHAubeTOAfhW40DOEGZHO_gueg31A3PUQxuiHhGnK-1az8ned_Z3b5on4OQ_ROkmYJnNJPEkMqHMifZqZwKYraW19kKtejig2UTsXj3Ry-ZFcIqthKaYmap8KeiwCkfNyq-FePVg7ABQVgmeUr9LYbjxxzbJTrj5jmwbZR8kguDlvhJEa1AVtfOobn2VjFwuPnrk1U6cXWv2-5N22dDadkIn2VlbvZpr5EjLsyO6OuizENV81916MFHgnsT38IckZMG2X47KPD6bBGHye8K9kC1pXqx0jE0kQ5JcTG8EvhZJvKQfiNGcxqQHSquaYy_4vF2TrzM808BCoMfliwt_PSlggI7YtjB5M5EIOa4CndoAV1bcjymMhqcFoHL07d75Nl4qKclWrMWvF1aJK80QMR1xguVMZEnsjFWxK9g7oBfO08rRKE5J0dD-17Xjvsh1M9cnIff7xU7nbjk2OujPD8uaaHYN6amF_CvmERbegSG1fher2HGN_hXMCmdU90yAqiyCLwicwW5NQoE1JpmuFHRRL",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJs4MrGADLWTkR_fYDdAQUr7Q",
+            "rating": 3.4,
+            "reference": "ChIJs4MrGADLWTkR_fYDdAQUr7Q",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ChaVala Cafe, Ayodhya Chowk, opp. West Gate-2, Manharpura 1, Madhapar, Rajkot, Gujarat 360006, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3247577,
+                    "lng": 70.7678344
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.32610122989272,
+                        "lng": 70.76930602989273
+                    },
+                    "southwest": {
+                        "lat": 22.32340157010728,
+                        "lng": 70.76660637010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kwickbox Sport (Box Cricket)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112882383304581067999\">Deependrapatel Patel</a>"
+                    ],
+                    "photo_reference": "AcnlKN2O50HuVWV2Vbi_KIAdnikQQZpnalEPeG-ZLt7J-uc5xWhuh11K_A1AgClP9MhKiOvXLOTn2CxiXEPG2G8C--CJpR8hlMPtgSt4ClZa4TXNjvrA5xCGCAhPZNmYKgJNbQv4OfrfA7x3vH0ygw6GNPPGVeq3-7zyhcvB1YB5Rr1DkL_GmVcYI0gJkoHeH4twNxT6NfL8v0vAYsVG6h4jiLDDzpYrfNSxgIO1rL52REBDXIv7czKS7GUz-ax0zgu3Zmu9EvCek3_U6rlqp7CQJBRmwU00-NIutW4zbYyjW2KWgD3o8Z8nndpX2HQgpU8FtZBKKm0fNHRAW_QjiwAmO9n0woHYhJuU5Z9vyCtpnoTnCVBD4Hi392yvKKLgazIo4XEumVs8t10Yz_wTFHS01qvl0l2ZzrMZ16FOflMPSpkNwHcVuJy5nzzExiUOprk9VbOY0guVBd1rdXlf_WA2OkyvhIqseoWcH4QKWQXtrUS8sjSr2iSBjIDCMdHQLZz9cJ_4uplajBjMJakVBcAg9fyUGAXxxUvK10-Ulle0EQYl5xoLz2gIyMZ6SK18i7WwCu_RlpL1rfk2ee2AqvCzdem9EBU",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJNYe1DgDJWTkRKfNL2yG72cA",
+            "rating": 4.3,
+            "reference": "ChIJNYe1DgDJWTkRKfNL2yG72cA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Raiya Hill, Atal sarovar road, near Shanti nagar gate, Rajkot, Gujarat 360007, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3156174,
+                    "lng": 70.7502457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.31689047989272,
+                        "lng": 70.75157532989273
+                    },
+                    "southwest": {
+                        "lat": 22.31419082010727,
+                        "lng": 70.74887567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "RCC Box Cricket Rajkot",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109787106868661061063\">RCC Box Cricket</a>"
+                    ],
+                    "photo_reference": "AcnlKN05vchU9h3CH_rjao4hArjOLk22c1kZ5idyVYA0FufznHspVxg7SJSs7oHjcXWxKOLlz_r3OS_HTpzflg5Ghiomk59CA0N-qvt25jYeRLAMzydr4DU6y3T_AZ-y-u7-prDeQSPVfqgL-0c9fzOkIfx4dSRGOY-NqRWi4YsCy-KuXRADKe1qJIm0KyXU21-PF1eHV6LNEl8KTcDh601UbSRjTgrvReblzP0P7wLTXoCO3AUNuG7mV-K_fRtmGs2gmQURlLrNET7dRKt0rF4_-4NZBl0JTsCuO2q4xBQz6jSSwwK_qBU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJRWhUZjLJWTkRQnMWeL0quQM",
+            "rating": 5,
+            "reference": "ChIJRWhUZjLJWTkRQnMWeL0quQM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "B/H Akash Party Plot, Opp White Heaven, Sunshine College Road, New, Victoria Gardens Rd, Mota Mava, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2612627,
+                    "lng": 70.74169069999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26279067989272,
+                        "lng": 70.7430277298927
+                    },
+                    "southwest": {
+                        "lat": 22.26009102010728,
+                        "lng": 70.74032807010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Akash Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115876969607280504534\">Vrindavan</a>"
+                    ],
+                    "photo_reference": "AcnlKN3JOaWJ3tNOvyXX_Yv7GH8jwjlmlqvWhnr2sFKCTCDytC3dR0S_uphfXgfRwxj0Cc6LSZe_CebkK3VZEZ2mCXfShK9_6j-IOpL7ckJ32z1emAjgksTBFM5MMuR5RHOqLWwCeQA6hORFhQJCr51cLC9nwbtZFbIHhOCzhHmo87rdsAFY-K7V55J19-qBALJdeqIh9EhPQ7BgZohrujD-PvA8JU1J5hIru9PPU2G-5Goxh-O_wJlExOg0oQ6zGrlmM37wOGZPvRLFpFPigtcLHX1d0h5hawyZXVxk2HALSh32Tay1pMHyyZ2hJCl8jK1zfc4_-6d9qYIpGmjaKIhG2Fhzm47zaaHcwxyqAMgmL2SR2Etp3G4JIwCuCUAIxwZBbnqVl9nHjCupjjvKJzz2itICaTNfaB63OT5F82-oykv-EiPL2klU054JYR2Zzv3RKVI2A1CZwchwdeVMTKSTQn2FPxqg4LdTeSdG-wOa4AlG03TmK8fckREeHghY2gSqqgECwIkLFx0LSix2qQbNCOVZ2MT5jjVEPGQKZd1eE1BrkkftftC1bZ_YSOOmzEL06vid17Md",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJEVGilobLWTkRXnrK-UF6x9g",
+            "rating": 4.7,
+            "reference": "ChIJEVGilobLWTkRXnrK-UF6x9g",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gokul Party Lawns, New, 150 Feet Ring Rd, opp. Atal Sarovar Road, opp. New Race Course, Rajkot, Gujarat 360006, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3251048,
+                    "lng": 70.72415459999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.32639527989272,
+                        "lng": 70.72551277989271
+                    },
+                    "southwest": {
+                        "lat": 22.32369562010728,
+                        "lng": 70.72281312010726
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "POWERPLAY BOX CRICKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101861215953765414120\">Aditya Shah</a>"
+                    ],
+                    "photo_reference": "AcnlKN0cnxmMHZyxk-Th0WbQgV13NzEoiBjSvYGLKhAGC8FreP0s69PYuDJe1dOqfc9s6ELW13_4uN0Mq4OfqNM4zvLS71XZOg5BQO9VYXC-6fHKhuCQQePnrgEnsof3FkzNhY2EydiFKAeBU9FnzHRUssHzceAxKmPCOLn7OUvWOf9hahUZbJzb8rbstRPCIEq4zfq0POoxGiCLj-oKusvCy0eQmYZ2qIYfSQUWVrM20bA33NtPqwUEeh6bvIqWTwlLENGUuQPQeu2_GPffdGqbCEQfW3SceMLePV2b6o4berWaSOfKIUrXmiXFBkzBOEqEhhDR__P1erJ6v3DbX6uNcnu3kI7EWaCt1_SasW3KzPR0BGwwuoCS0OwGrgJOVhqU6UGzWA4ZcAWQqnpimG9xlSb0yaBrmg2JcCv2KHO8Ax_uZcGRE7RWZ-WX3rt3ihq_aU2JQ0thMdBRKzGg8W_X5NWsYALzuema9CrYF7qRfRTIJjMbvTyQEKm-Bqiwcqtmunaj_nP0SMGeIsrcsB4u2PsmXfnoomOhgHLAADerQW_UqxLcyM3-LlYdhv5PIzp0g7sEoJc7",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJH3T6dwvJWTkRMzN03vBN7xk",
+            "rating": 4.7,
+            "reference": "ChIJH3T6dwvJWTkRMzN03vBN7xk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "beat & bite, food mall, Dharamshi Korat Rd, Mota Mava, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2715363,
+                    "lng": 70.7519964
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27288787989272,
+                        "lng": 70.75339702989272
+                    },
+                    "southwest": {
+                        "lat": 22.27018822010728,
+                        "lng": 70.75069737010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dwarkesh Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107206713302471954875\">Milan Bhetariya</a>"
+                    ],
+                    "photo_reference": "AcnlKN2245h6f1n0a4I2kvlRBHrXqmpTt4gMq28UoLZXB6nzry2khu2EQuGlCs-sD0GY-aSSxSWblJ0eniel0vBWJMpVqvHs6vigF09AFn6sUpc1oEkutiNmD-KV-_Xn9OndzUuTViPf2vR_9Jl6otUYItCIairE43BzIGyqLoK-B8X_FWSyWSMPL6HcqbmD5YQ1zRMO7xXJo2CBP9ngUIkF-nztW2DWEtALxTAvEFDn6WjW6iZVJWCxCplcfKguR-W5VrXwMnoUXF56mk6hhOMgcdPf3Uuikh_xFwJTH7pgTUwPniuMGMdHxaZQmF9sK4hufClApM4_5xvq6hk15ULLfjDjiC16NaWLzmy-EJ2Z8iX-MrFCKqXFcYakcSmzTp2AlkWTTHFLBN16lmzu5gm1ZD1kDfAgJupO2ixzjyAfbdUKF5qRSXyKo5q-6pQQbSaO29fi9sh5TZitiydo98Y2nR1bFMLhx9tDAWVoETc5FjqvRcYuv_MuKmxa1EYTeEdVoaEhoyn74TQn4NcyqD-HIT7iFZ6h3YiwA1O328s6JM376sCfuG7RHtQIniHEFeDOtOrK8CmFVr1WbDxHGipQ3JSotZxztw",
+                    "width": 2460
+                }
+            ],
+            "place_id": "ChIJOUPXYQDLWTkRMq1hldzkF-4",
+            "rating": 4.9,
+            "reference": "ChIJOUPXYQDLWTkRMq1hldzkF-4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Shri Saurastra High School, GROUND, Kalawad Rd, near Kotecha Circle, Bharatvan Society, Nalanda Society, Rajkot, Gujarat 360001, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2887893,
+                    "lng": 70.7786371
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.29018132989272,
+                        "lng": 70.78010862989272
+                    },
+                    "southwest": {
+                        "lat": 22.28748167010727,
+                        "lng": 70.77740897010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "CRICKET ACADEMY RAJKOT MASTER CRICKET CLUB(MCC)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108323866316111331089\">CRICKET ACADEMY RAJKOT MASTER CRICKET CLUB(MCC)</a>"
+                    ],
+                    "photo_reference": "AcnlKN2UB9gGRvHoaa_AaMIMuuFoEh8i9L4Assti7nZ5dhN5G1mjiORqjkw2i__HDqB3BlKQInqIaXQcMV5UoSO4tzhwLW70WrIQSYTuwaTsdSkDL32_36RIGWnatZocUITm1PaENEWPhQj2dU75Vj92vqXYOFdw-8ZpqxXQEWKV_PNiHrfteMsdVIcFu1sGS4rHSCWIqnnmmdpEomUpgRIxcRWa2HsweOIX4n_yyf5QkvaY1hFAaYRiq5dIOOWxqgy307QB79yUux7iTd4X2dqAtr0x_O7qIuc83ePbMnufe81MNkxJoFI",
+                    "width": 819
+                }
+            ],
+            "place_id": "ChIJiSFTu9jLWTkReMmdLvcy_Xk",
+            "rating": 4.8,
+            "reference": "ChIJiSFTu9jLWTkReMmdLvcy_Xk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "speed well party plot, near, behind Khodiyar plot, Mota Mava, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2644311,
+                    "lng": 70.7581836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26563057989272,
+                        "lng": 70.75938272989272
+                    },
+                    "southwest": {
+                        "lat": 22.26293092010728,
+                        "lng": 70.75668307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "FWF BOX CRICKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101267932028956916554\">JAY GARALA</a>"
+                    ],
+                    "photo_reference": "AcnlKN397XL6X2S9D3clszV0YYactDllt-zc7T2Zn6XG-JLoY1C8oYg-SGEFNOiPcGEX0u1w3_cC1SYvg8p29O5pApyrqoV4GmGKsmIAKTBjZuCeIcIBCWg71o_E-HJfkW-YC__Q65ZNJ0mKXRUUXmEqErNCkwpMSGIH_m2_A23oUXllfvx93xSj2MAwYkJMZCIngzOPhgHdZ_6z3CdMSOT5CUYPzHCJ8F2QXAS61178ihwT6sj08OywvT3Yo8UlWsfv39BFc-d309TROzx6uMa_cQJ0LqkFZFzTtg369lk2xAGQ7dMFOMtaEpSUE8fwBaQ0bG98l2yjJyow32vNPtZujqlLg0qdH0JkdeupnqJ5C8LWM3wQl6EpeDl2XtnkDOqAugPbpBFDmFBKyYszq0n1HMxvRP2jrTvHsm6HZYCEDPHstyuaRz8QdCjT9CXYKX_D2W8NdQHCS2CdGS8r8BwN2uch4IRNSi_yxBa2Se7kwrGjDmgtvOGVfkIp4JRYmeXkLWw0TJQF-vf-wFgKDMY42IZCCVB6i1xkS7gjHvJQX8C2HiG2Q4K8yU9uhCotlmPwP0kiere9NTwS7t8ZAixhFYt-dQZ3kg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJFc6U9gjLWTkR5LnmDfrVCS8",
+            "rating": 4.8,
+            "reference": "ChIJFc6U9gjLWTkR5LnmDfrVCS8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RMC light house project, Smart City, Near, opp. Atal Sarovar Road, Raiya, Rajkot, Gujarat 360006, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3093036,
+                    "lng": 70.7428963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.31083877989272,
+                        "lng": 70.74390357989272
+                    },
+                    "southwest": {
+                        "lat": 22.30813912010728,
+                        "lng": 70.74120392010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Face-off Sports Arena",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115759470624067681424\">Kalpesh Kular</a>"
+                    ],
+                    "photo_reference": "AcnlKN1Cvj1jGxV7is4ynA9tzbrKL4Qh6hdEbPnVVfz3wYCvj_I50FWcXUIPtyO7MqlZxDRZLxz2djjUoh4bX6ohNSqStCeWK64OwmXqZuQhBb6F4fTqEo4nRHWebuqEye7tYDkRo7cPKkNiVpNL5zUNne3WlAIX52KLEinYNojLl9Qihp5gWWcBbiqA7drbt79mgD90q0V53dKyN7Q6fPWzNzW7Zn1QhF1-1V5bpA394xfC0RoztHZk7VFeCF8uNuymCvB9q2eopyWSS-M6JKiwblYT7QRHzJ3J7q6phRa1_1wO7XwsT51YXDRnTYw8MKMZnPP9mEdVS9bwev6KfIeeOA_4LQHxi1NiFyyf4HQwICEZkV6uLza8FhO-llxWEN1w8HmPuwKK9GEZPOw0OaTRCc9SwPHHKjpPOcE5_d2Ay_6hNejwXfvae8SOy38FIiVbovXdBr4E868T2_4ApiCfWSUvzhsdiOaZDQTAJsKZ1uP_735ffyaKvByYPN7lvKSrBiQZfr4rZxylZdRsOi8k83PmgWxqC0d06RHSdWZZ0ioYBiqp4VwDva4flIN6EdWbjbP2hgUoiHY-wBimMsLg_ANqhUcHew",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJK_W2-kTJWTkRmqAvZdqOk4c",
+            "rating": 4.8,
+            "reference": "ChIJK_W2-kTJWTkRmqAvZdqOk4c",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "New 150 ft, ring road, near delight party plot, Munjka, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2864612,
+                    "lng": 70.7309626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28756547989272,
+                        "lng": 70.73252272989272
+                    },
+                    "southwest": {
+                        "lat": 22.28486582010727,
+                        "lng": 70.72982307010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rudraksh Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1472,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110106640162103989264\">Rudraksh Box Cricket</a>"
+                    ],
+                    "photo_reference": "AcnlKN1jHf4pvtZtl_0boCylWws875OwF56ahclhnguI_9hTLS0tDHZ50TAAy6_m2zfOr2WMWPxDHDfVA1S1DvNKJ4XJVj9shP0oUVwJyZO62utwfbeia4nEo-7kzoJOnUKKVmvCVJYLzMze25JZQ2LynAlMNxTNfFNLDapfIk8DSSrw-l6bOPYVQGUzyS5h323OxRsatDoobTAw9IPiVvxlq2DHzurExamlgUqODBu-1sWobgmskFwoHsti641PqbBmcdreqWweEuaODwOjxn6BLJB49BMjUZf7g0CsNKtpozpxFHiRIeM",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJgcp-AKjLWTkRdsQmEvtxsnc",
+            "rating": 4.4,
+            "reference": "ChIJgcp-AKjLWTkRdsQmEvtxsnc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "besides genius school, Kalawad Rd, opposite cosmoplex cinema, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2683862,
+                    "lng": 70.73867919999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26962107989272,
+                        "lng": 70.74032042989272
+                    },
+                    "southwest": {
+                        "lat": 22.26692142010727,
+                        "lng": 70.73762077010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sports Arena",
+            "photos": [
+                {
+                    "height": 1020,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109001773349664455186\">Sports arena</a>"
+                    ],
+                    "photo_reference": "AcnlKN1g6l27tIhIvvvIZrG1hY-RKuNSMT3Zes7yyapXsKqK3LNby4oVEBeBCHfRG1C8FYd134pyS9zhEhjHpBN0lsXW1MOUkePR3qk8LsGrnjor68bYkh0oqJFy0RNtotbj0Sk4dM0XVZIfGa1hp2IRffjv8W_1rWkVAW16x0mC-8dKnPPDqwQpKeYcwIZqOgEBKo1kLR87rKE88meDhMZGSX4JHcVM5DDTsy_j8kt715m3LwkNRmyObMq0sxee2mOXn-ahQC8fboEQpJkrCFgcvB6BqlqJ6pJaRJq1eM9lb6ONmTYIEJg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJXYFBroTLWTkRgRZKfn7_uUg",
+            "rating": 4.8,
+            "reference": "ChIJXYFBroTLWTkRgRZKfn7_uUg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Behind Shashwat gaushala 2 nd Ring Road, chock, Tilara, Rajkot, Gujarat 360004, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2285065,
+                    "lng": 70.7689651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.22986257989272,
+                        "lng": 70.77045422989272
+                    },
+                    "southwest": {
+                        "lat": 22.22716292010728,
+                        "lng": 70.76775457010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "NJ Cricket Box",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117191880630106725691\">NJ Cricket Box</a>"
+                    ],
+                    "photo_reference": "AcnlKN3JFQi9oQPt3JpsvEk5EdqysPdnHQ2MQTmrZotfX2QHLP7eVv0Asve14obattAJkn1OvF8_n7dFjbAMFw6q__QdIBLc7vNwm0t_gF4BgwMrPG3QITXfJ0VpsCsJc7bf1h1z3nn98Cu4dKfErEiV_QjdITxxzZCQ6i4FqWZYATyQ8QvWZn9JH_0F3DnGbvkfiUwNP8Zjpxe3T13qHZenEII-MLaka0PRK7TZpzgIjc-fLbQEL6f3HRKJI5lKxMVZ1z9_Ht8fU3nfdcGVwtKhTlhsxnfGJNdSPZd50dlYx2uw22TTWsk",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJq-XsRTPLWTkRO_YzVH0wDE8",
+            "rating": 5,
+            "reference": "ChIJq-XsRTPLWTkRO_YzVH0wDE8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Hadmatiya, Rajkot, Gujarat 360028, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3601967,
+                    "lng": 70.8247109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.36153487989272,
+                        "lng": 70.82608817989274
+                    },
+                    "southwest": {
+                        "lat": 22.35883522010728,
+                        "lng": 70.82338852010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Cricboxx Box Cricket",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106869161240117117773\">Cricboxx Box Cricket</a>"
+                    ],
+                    "photo_reference": "AcnlKN3a7zuqmA5DK0MM59V4rEK0s2B9PrVHFHgEPJPW_6Esd-EwdvMXK8MuF9_uV1R-LuqAXm03wnIUZn9BaoI-D_cluvKUndSjruTVUhG1L4EZmSUKYcFBiEXEdZjlS8j4Ad8cLWF59eN0mg-8ahgKcFHfXBGRcaKxx7wrvI4eBXYHJsQN4xqu5941FjNWsl2OMuzdul6LIHg8-8uQrUSWdlEGRLDUazcL6cd0_mUSP4o0KU8hqcm5XRiJMk6bIM7oCMZQc95OOGXXCCqtX6blkDnbqTbEC5LscFvlCAAu1TgWlB3QeWY",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJt4amFQC3WTkR6GbCUVjcyRA",
+            "rating": 5,
+            "reference": "ChIJt4amFQC3WTkR6GbCUVjcyRA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7QXP+PXQ, Race Course, Sadar, Rajkot, Gujarat 360001, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2993456,
+                    "lng": 70.7874904
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.30065227989272,
+                        "lng": 70.78863912989272
+                    },
+                    "southwest": {
+                        "lat": 22.29795262010727,
+                        "lng": 70.78593947010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Balbhavn box cricket",
+            "place_id": "ChIJp7iSHgDLWTkRxkhp9_rcVdg",
+            "reference": "ChIJp7iSHgDLWTkRxkhp9_rcVdg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7P9M+HR6, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2690684,
+                    "lng": 70.73455729999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27051682989272,
+                        "lng": 70.73589327989272
+                    },
+                    "southwest": {
+                        "lat": 22.26781717010728,
+                        "lng": 70.73319362010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Classic Sports Arena",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105094926757265818574\">Sohil Sumra</a>"
+                    ],
+                    "photo_reference": "AcnlKN0aWSOHmpBxkg-ods_FxTEsHCAhYs2OuMYkJ4gS4gf0S8rWowrGQhLD_ttK0wyFqwr30dCs6Js40Ta6PerK_Nl0u_iLB_7eSmt034YwZbuMZMy2QabdWaW--OIYxZ-siYFiZ9kiGy_ysLKaYIBqjaHstBmS9Q52NEoidRhTb3HE-fs1O_XGx-K1HQEiOKxUK1pKMYGDzvcNR0nUgPwD_YkkNZSCDWaIrZ2EhtlUr9pxnwxLqEaKYf-w8SQUiL1EkSIsj65CMbhrZMpigJC7yTM-G9H1dynJsMt6kc-bqkrCfhp8h79kGgC6Sb75IVXc7ipJ_JtPs-q_QJjsbu5Odw64o7a_DE_YaM42RrnKiXhQbLYWRlpkW_IVM901NkXrYnLOINI7iI-fPs3zo0ASuHF3f7z9FGoP1I7lm-bsN0scFT9M0yOpvpP3Pl5R4CgSDsCDP7EiNkopWMuzwxx2AOlrVNG-App6Oe-UX6ByMYkRn7gfGNNSKjzE13L4cqUDWzuRwXpBejUIbTW7suGcoQa7uFTH22MP2DDbIjboKOU19BiXbRW8BrofAm7cAkjRwO0_uzo9",
+                    "width": 3468
+                }
+            ],
+            "place_id": "ChIJV0n8TDTLWTkRwHWuiiRoE74",
+            "rating": 4.4,
+            "reference": "ChIJV0n8TDTLWTkRwHWuiiRoE74",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6QR5+8H, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.240462,
+                    "lng": 70.757847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.24186407989272,
+                        "lng": 70.75922527989272
+                    },
+                    "southwest": {
+                        "lat": 22.23916442010728,
+                        "lng": 70.75652562010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "V.R. BOX CRICKET VENUE",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107512529908952471317\">UAK</a>"
+                    ],
+                    "photo_reference": "AcnlKN2iktsa3BYeJuuj7hJXsoP5v5X8VHBam6hbkxFsdEGDJNcV89YNB9ADWcBChBAzrVm5oYzgW4wtfDXUwAl4i4g940wHlfSHbhMfwzsYCv4YGiwPiuYC2P0xIMoTtPVci1mPFhGV_7tWGvrUpAi3bw2mQyKbrZrbqs5pggK11bPeOVHQZQIQB9zTr9Azhxpa3kIDYrAJXog8D4dANmPGiiPkYCsE2p-LD7dg4KBQPR-xzBFUH_qzMa7h4hGvhT09YUepvI8cFW0hwBA6iHrmgkK4N7QywG4O4oKuas-srGY5o6Zz5RPiAPFO10WLEx4vVbX9lZ4zYAM_Qomdp2izz1CG0a2CPoXxD5bDvNEw6LinHb9IW86iGoAihd06m5daB6N0nYtIoxG7ZSaSRPbJOiIdNQ74k4GZa-71mO-d8n5AzSYGVHQo1TwM8mankocqfdsow48XrVGGgDnVT_mgoJGZEnrNQtcNroTf8VIs7SC9m1hWM-zariKMQ_ywGlNFw1_aOwYsC_s6s_gIJ4h0abpuHJEeNCYnvB1mhoZxqVF5H9tWyMZxwzejY6BAWAn1qSvnJMZ3",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJsSggzwfLWTkRprN3Pt32Dhs",
+            "rating": 3.9,
+            "reference": "ChIJsSggzwfLWTkRprN3Pt32Dhs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "FWF Box Cricket Ground, near Speedwell Party Plot, opposite Pradhyuman Aspire, Mota Mava, Rajkot, Gujarat 360004, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2649905,
+                    "lng": 70.7582238
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.26636477989272,
+                        "lng": 70.75947812989271
+                    },
+                    "southwest": {
+                        "lat": 22.26366512010728,
+                        "lng": 70.75677847010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Arya cricket academy",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112351078143830185805\">Kishan Tamaliya</a>"
+                    ],
+                    "photo_reference": "AcnlKN2mxVo1CnQFPz_3GzGQu4mjt8Y2VkP_UFY9P64FxnagiN7jEi2rCMhd7VYE-u-coNCs7raK8a5NFrpxs0R33Gww1_BMxQ2o509tTcs94pW-Qx8vgk7g1xa_4eEofKp8baGk0J8ILUT8cmZhEBPMrHgxATUhmgy56poWwwTtrpIzsUqMl1K5pfflWEFbmhMz4j733Tonct6nQ4s-n7fJNoOnbBC_1DdbT0EoF_lNHPrMTBra4C1G0lWLdL55GFUAHP-xf5r-YbZ_BcDcQKDBKl1WjchL_ItRuDTNMcywHUcGNP8_Jzj-bJR4ss5ZngjzzvBq9RETAJeEs_KbmxiZoRbNZCdr9CVPd-DvdEtvT4Ca_Bd_mDt_vPYNuvTNr8dkzcPwWADr8jzA1zD6XV1XZNVXKlNARfkSGHWoqxMV9kswKWxzNuwIbENb7VtROYnhcLsh6Ou8tldK0cz_vBGYLpeSb60fWu_d12WtOVtUCuGhds7JftpZ0yVTz5lSiWtULLNtiGnVEdNlO9IJV4N797N5x-QOFKV1Tdjq9X5gdiaPOJ4p5RuuF7DxEH4MLWN3P5eFp9ofIM6w8TI92k_Cwn9Ghivyow",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJDyhHYQDLWTkRxb0k6Bl_Rqs",
+            "rating": 5,
+            "reference": "ChIJDyhHYQDLWTkRxb0k6Bl_Rqs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Vs Box, New 150ft Ring Road, near delight party plot, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2856049,
+                    "lng": 70.73542359999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.28701482989272,
+                        "lng": 70.73686442989272
+                    },
+                    "southwest": {
+                        "lat": 22.28431517010728,
+                        "lng": 70.73416477010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "VS Box CRICKET",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113081952236296167679\">VS Box CRICKET</a>"
+                    ],
+                    "photo_reference": "AcnlKN37SNW_jwniFYBBs_zleVX5FWwPsEqVeTkoTVq7Ra-h391UBg8LfsAhwjwwCkaOZbvQDj0d3yQRawdJCO_1FwhzyCxcgCFgJPztRPCMwDFuxcP85cFTpN7Wlk9tKSKCR0YTueznNrDyzH3SzYPPXgjOe1arMSKRqquycExdy0wihgOSWFvUMtxUSiG-R1g75gHRDPQGsg1VGoSZNMF6YGD4jNRxTqstgRM7gJXiXKQJlqutN7OXNx0tSKQh1erK3dh2z3Nn1NtDLU_E3edbobUpmCCh2KsBmtra0rgL5YL3ZTnx",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJk6eG3tnLWTkRg9EE0t8qBTo",
+            "rating": 4.3,
+            "reference": "ChIJk6eG3tnLWTkRg9EE0t8qBTo",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kalawad Rd, beside SANDHIYA TANU, opp. ACROLAWNS, Rajkot, Vajdi, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2695838,
+                    "lng": 70.71724999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.27094942989272,
+                        "lng": 70.71853587989271
+                    },
+                    "southwest": {
+                        "lat": 22.26824977010728,
+                        "lng": 70.71583622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Howzzat Multi Sport Arena",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4624,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107961253340517976208\">Jinesh Sawlani</a>"
+                    ],
+                    "photo_reference": "AcnlKN39p-HgZBPsnBtZRhip0bgCs0UxNY9UKtPjZX81_vgl7kSdd6oOpV9dMLHMSht4x8Ja4rEzrty0RroQaT0ceBiB-lwZCWFfy82z1BWO6B6-c7ttKMsQ_PxBOw1T-QBK-mgzUH-rJOhoDNYJxtmyvVsujRCGOE3uky75kMK4HFbi07TPOosvPo9jt8twcBsALNh5YYdnWg-3JkjRydesCpEEqeAq5k8ZrorrWdoc7O10fGmf4AlIBt4W_9ukyN8n_R7T3qyQyJBtEE_wG3BN9Ij_4VAC2qtP-M_JmtE-vWhgah3IlfBlo0esDB3qhX-RDSzQtcs7yD2k6PKyW1JsTJFP6iANVoF7tCA-HXDY5--RS2hfApnpDI2K257oG8md0BVW_7ejlkxKglW3lCihfppOeB23wq_cM0ta0Fa88eAdnzfQs7A45N2HQGIuVUGOFGCDgxQ0L81Dxe27MPYyynlTMAqxQjMvuud4lImr862SnxZIYZhe3DD2_ungSShvx4-pm3BbBC_-mRg-kw9Woi6Pj-cbO3QeRkuQrI-D5oDih_UbnTabYF-XxUG_UcJzdBQqIunf",
+                    "width": 3472
+                }
+            ],
+            "place_id": "ChIJ_6wYAgDLWTkRNEvNECZm-GU",
+            "rating": 4.7,
+            "reference": "ChIJ_6wYAgDLWTkRNEvNECZm-GU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7P4X+38M, Victoria Gardens Rd, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2552089,
+                    "lng": 70.748301
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.25656832989272,
+                        "lng": 70.74968412989271
+                    },
+                    "southwest": {
+                        "lat": 22.25386867010728,
+                        "lng": 70.74698447010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Gully Box Cricket",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111052972233252974189\">Samarth Panara</a>"
+                    ],
+                    "photo_reference": "AcnlKN2ksebHaxIS1hUOKb72tyol6TW_UY39us7oaI4qWrQ7miYCDSyj6kAvpx0tVOs2Z9ncYIu8InjArLndddruaG9zDE3CWYTwJ-Jm8g0bL9pOgR2KbZy6cuvDXHoSocvQz3BFHv7J47BG6vzBUxYbZm9lcNO-qC3JsEASuMYwY_6TJT3UKwCI6-mhGAfhAAWeVVem403rQbop-Q6h37f2HU9dmlwHvvKn16eUjjboHs5idSq1pXlUrZj-WoM8wE0IVSDutNkJG80Dj-F4m9Le8E5awGKy0k_VlrFfAcNk4_DVIZMnAgEpL8KF6Dh8DjE-KWkGIufWk2-WHWXhoUvZMcQZk1AUA7pCq2nI1AVhGjEEtw074UxaT7RjifJFrF_xInXaPxIqDcWC2qsgS9s1GbUerrOFiIrexrGwzu4UCLCPNYmPGzu5WNJbaPiDz0x9q7H-Baa63qGqB7OpA0MmFCk05jR9qkr99Z-F6nAaZOXscBgeVrq66dYTMe4wpwGn-bfu9FlfaFTJL9CkqOzTazh8PTICfoEKUxg3jEuWwAnvre_bNh_-MALyPFp4T9kaZc5VSH2l",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJxfZPdwDLWTkRYK93b5p7itc",
+            "rating": 4.4,
+            "reference": "ChIJxfZPdwDLWTkRYK93b5p7itc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "New 150ft ring road, opp. Radius lawns, near Mujka, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.3001738,
+                    "lng": 70.7299115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.30152042989272,
+                        "lng": 70.73071457989272
+                    },
+                    "southwest": {
+                        "lat": 22.29882077010728,
+                        "lng": 70.72801492010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rudraksh 360 Cricket (Munjka)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 899,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100621943547589416211\">Rudraksh 360 Cricket (Munjka)</a>"
+                    ],
+                    "photo_reference": "AcnlKN1sTV5KXd-VN2Gh5xnbMfwq15C2nMOr_tq3m6fg48nBX1wRdBdeb5KJsgU_FFeQbpkbIEGembTshFL3byqoqTZAznxBOAoALK3W7dYY1ZC6EjAO9yWo_W-4ps7mRlaC7Pk_OvEOcnUfeeA_Wikb8ZA9JeeImSw3fH1Y-t8EBzB3PYbLcJxQETwAx2W6EYpGlEBuwzJ_U-VzBp8N4KEtAQZliE6b2HLoINk3QuEr9ET9opC8rvf9hG_xmh1WySDWWv7Wc3-zNyfN34DLL-rmL0NTR8KDpmDYUyP5rGLEzQQ22g1kxlM",
+                    "width": 1599
+                }
+            ],
+            "place_id": "ChIJLcZVnwfJWTkRsD8v3GnJjbk",
+            "rating": 4.5,
+            "reference": "ChIJLcZVnwfJWTkRsD8v3GnJjbk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SKY DIAMOND FRONT, 150 FEET RING RD, Rajkot, Gujarat 360004, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2484156,
+                    "lng": 70.755952
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.24994902989272,
+                        "lng": 70.75733532989273
+                    },
+                    "southwest": {
+                        "lat": 22.24724937010728,
+                        "lng": 70.75463567010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Crown Cricket Box",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102217815720104484014\">Crown cricket box</a>"
+                    ],
+                    "photo_reference": "AcnlKN1F9ZwBq3ugYuuBkf3Mulb4b_z-ERjKNZA2GSmRacUfjlXDa3n3zoD1T851lGpugprcx7TeA4pc8-6eb7K8KMqxwTm6Lhu4E4BZjvGaRcYv68x87fVoJ__zhM3cg27yb9tnzAKYgzu8-vEj44i87XLxPxGGhGsbWzCTCLgSX6ceKgNatUJDP58Xq0SK1C3H3kIQsmG4p6jOz1hQicwAg1_Yqy-h28Aii9lG8g7e-lpJ8zXsGfA2jHlA259nm-WZchjBHWkoCxUKrKiLjEbUVMxHXLIpEOokkV7k_NhqlRZPlxmEing",
+                    "width": 2252
+                }
+            ],
+            "place_id": "ChIJOWWsQgnLWTkRq8koRnAtRIo",
+            "rating": 4.8,
+            "reference": "ChIJOWWsQgnLWTkRq8koRnAtRIo",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kalawad Rd, opp. Nyarihills cafe, near Indian Oil pump, Rajkot, Vajdi, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2538943,
+                    "lng": 70.7056723
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.25528812989272,
+                        "lng": 70.70669262989273
+                    },
+                    "southwest": {
+                        "lat": 22.25258847010728,
+                        "lng": 70.70399297010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nyari Hills Sportsclub [Box Cricket]",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2112,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111627217490546785405\">Heet Patel</a>"
+                    ],
+                    "photo_reference": "AcnlKN2fZIEjbp_y-V-Wz64P7xLciR3EgT23uw5aVPzPDfaPyt-kOgd3bDeL8hp2MduM1w5rSPT0xoR9vnTYfrzG3JwuRSljnquKZLBc2k0vxef4PHGvIoSv_mCL-Bz3LT1jKo0pO8Voh2iFnbnLJlcJytbeRcyiXIFh0uop-wY8xqYB5NxR7L-W37CILsW8GD1LupRIKvD44i5hqSHk-XH1WVFIxmhEEsbPMH5d657Pt--vURUHNrAgr7PMbZtfgmGMy_F1FcMPT5OE5yZbMY1U0adNux7TJ6sbj9pVgXHGCFAc-EuxxG2KxlAZxLVJ_xATcbxSmYdn9MMiLTQHE5mEWEyeVttELvzplhZDKM8VGPA7IHTDFMftcbiYYHIX1NIkMdMcjFxBDtDlkVryLDML79xDEUtaKzRhgQznaLuYe7LyBiVJUV8cI3tiniLCzfFTrabef4ytNW4Hl85qVeHxBxxXhwNH0_QBJm63RaWrOgHSBuA6vIT4NDxo0SmXnRNNmm6GQAmtZRqlEfCuoAsSQgWWytW6VNtnrTMA0KWVHGzMSsBkChZGyC_dOfvWDFS2crWXKS6s",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJlWvoxYfNWTkRe3XKPVBudiE",
+            "rating": 4.3,
+            "reference": "ChIJlWvoxYfNWTkRe3XKPVBudiE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6QRQ+7W2, Gaushala Road, Rajkot, Gujarat 360004, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2406383,
+                    "lng": 70.7897636
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.24205132989272,
+                        "lng": 70.79073922989272
+                    },
+                    "southwest": {
+                        "lat": 22.23935167010728,
+                        "lng": 70.78803957010729
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Super Cricket Box",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103196623943952667425\">MR_INNOCENT _78</a>"
+                    ],
+                    "photo_reference": "AcnlKN1osWrEQr9gbFknNMIHJs8zmXbVNRtfP9htSg8mvJ0AUNIQX96ri3YJMlN-_hHQRkIBrpM5dEdsJah_E5p_wuaBfI6pTjetX5KcGVlnSybiv0HjY-g8zhjarNKo_rZa97zFndE2qxoWMSvV1wkGbRG6SS1lGjcrvPVTgIPgZutjw5E2cUPmW3pBqmJjR2X_7WAi1gVYDgptUpAupVbV1SrV8gyP1CXR9XKgA58gLzhLYe4Y6Q_-XtQeNBF1RMYqdLeGx7Cgb_OHGIGIWlJINqHrvSqllgCh4TenthBa8uV92m6lOz9IiwyoG8ZLQJLypPwvzsQFczlaMYiyX1EruZiL7akB47pIdjAoHQjhkEvFClwE5601tqOhx42i9eSg6vkdT6KM7f1DNYCdToeHHpO-QzqQOjqCE3iH2Ugk4bX3Ooe4NYDwSJVF25QbO8blvaDjR38g0aQ5nfNwGUsaYXSCzgLMUjAnJ7ngtYpoqHBAcKUxe9bjdD-oUSsJi5BfbxqOEMyfLoAerE3LIAWsztDeiAfxhSG_hZoHGH0vCAVAELto_VvRv4ZXqL8jryu0MWh-M2d2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVbLEIgDLWTkRzs68yOxyREU",
+            "rating": 4.5,
+            "reference": "ChIJVbLEIgDLWTkRzs68yOxyREU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gangotri Park Main Road, Near, University Rd, opp. Shilpan Icon, Rajkot, Gujarat 360005, India",
+            "geometry": {
+                "location": {
+                    "lat": 22.2944798,
+                    "lng": 70.7494214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 22.29583917989272,
+                        "lng": 70.75076947989271
+                    },
+                    "southwest": {
+                        "lat": 22.29313952010727,
+                        "lng": 70.74806982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Paramount Sports Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105840111828229002413\">Meghnad Deshani</a>"
+                    ],
+                    "photo_reference": "AcnlKN3q8l_w-OhHHzJ-G-dZNeH9Ct5JcbKuUkgQrmN4qACFmXnWh-4zbYn9v5kbb3LLarCDVN45MRd-Lm5RaT7aRrISgThoMRjPdYyMa9kcKsDNCH-fhibbyIoOn0yOYG3Uv39H6PsiG1_Q_bsC5oCF3oc4YGIY7zOsVqwnOej_4ypt_9G4P757FmmusuXrsIlJ_fcDyRtlv2JqlmJBmCCw3KkNewO4L2Q0D-v-LlcYPJTfhP88CCB2mB_Ewau12aie1tsobLOo-P_Zr8M-GBBnITbZlVGXrtuaC-kvzIADNxZautq_6stgOR97VjDtegspJR2anJ08AWCteD9cCPvkFQL7zi9xKhJw62UBQ16sVavdpjwjtPG7n1CYdqvns4HUWqgezTK-Jnrgvep-D933neddhkLAj5UizKD1Nu-AVPYHPNr-eWBSJcJ19DpaPbE6TmOt7BPV0gyOlxlN8oT4jdo78o9VaueQq5FcBJPGfvRlihe5iFxZ8vqTmPhO7Bl7T5noFBDfQLgagbp49ptX2eDpFgdp8yVmDpG0li_t4lXBwSUcreOCn4XR27WQIBmJUmsLq2qrcq53tA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJMYa9HmXLWTkRWRWUM_IIi_k",
+            "rating": 4.5,
+            "reference": "ChIJMYa9HmXLWTkRWRWUM_IIi_k",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        }
+    ]
+}

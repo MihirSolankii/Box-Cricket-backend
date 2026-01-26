@@ -1,0 +1,927 @@
+{
+  "success": true,
+  "boxesList": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2619458,
+          "lng": 70.717081
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.26355587989272,
+            "lng": 70.71815057989271
+          },
+          "southwest": {
+            "lat": 22.26085622010728,
+            "lng": 70.71545092010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Big Shot Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106608059104179808719\">Fakhri Trivedi</a>"
+          ],
+          "photo_reference": "AWn5SU6ki9ciM-z_SfgTEC0V5POa3nLvqV7SIuiX_6ufEUUo2MBdjXVP43c6DNeNMAhRVndJyTL04LNu294xkG14XvOe9NvddYLiAJQPqBV_qpwcFPt7IPoWcgjEKbjX03MNhNP4O8xF2sUrDZs59V3h2X4s76TUseDe5WXbXSSqsTwVh0N78N50vooLyGq1n081KCzY3vHYIJd0Ypq4HH1zohddb6jDOny1Rfo1MFzz8H5-BAC3cEyGZZR7EYMrNt7srMxIdEOCr7EQlFp3vRpvtTbxRk8ARYwSVkaDdyZ3wh-Hk40BVY_ai8TPbQhmGJLX2GdiQqbHa8sCy1URHknPCS0HRG8dYzfX1DYmNwdqgRS2d7j_DyNcpLsIX_1U2klcrjmGDrbWk334vDE9awBhkbeD5i4C_HWT7_UVvMD4FmpMwFXKI4NO2she5csYqXYeZUqQSGDyOlkwHCYmUjOiuq5rtDntrkZErEBeHcVgfF1hQhCi646MtqtrNpK0rcuOZuEx-2Vv37wyX0c2MfZAd-dAAZqHv8_6hVWsuYMpA1izelQSM-zR0i68jt0X5KejZved8Q",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJP8RLeD3NWTkR9vFgNSsH_5U",
+      "rating": 4.6,
+      "reference": "ChIJP8RLeD3NWTkR9vFgNSsH_5U",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 169,
+      "vicinity": "Kalawad Rd, behind Motel The Village, near Tea post desi cafe, Rajkot, Vajdi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2772684,
+          "lng": 70.7403497
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.27853142989272,
+            "lng": 70.74167782989271
+          },
+          "southwest": {
+            "lat": 22.27583177010728,
+            "lng": 70.73897817010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 75750 14000",
+      "name": "CRICBOX",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100394038898286746295\">P Storage</a>"
+          ],
+          "photo_reference": "AWn5SU7yV3kYdUklTO6YfWGbQYlZW1gQfNHnGdy4C-FIn9uFZfsoPuHW1JHX0k3vmj-vLwtgzR9nMFHUOKslJSizEbPuubYcMrgCb1hbH-KlTGbXa2hI9Lf6ZlmK2Wt1-Pm8tsyBMMiemNBMweiZ0jI2m9Sook2K9k3_YeMDzd1O9QQ-1angQc-JbRCq5w4YHepudNYRJy13FdHTQXjmo7s7Kt_kJT3OmTmKnRFKPx2k2J_uafJ5zPPDl9_KycJ5J60Y8KOYfloOFCm9Achp7VnrYja4WlcAXv5PZXZq25F-pADfhdYJh-jfaGx90rltW1sw9AjMTFfFe64a2L_L4XKg0tndg549kJQ5ghDDIJB1B0JeAfqYDlbLnGLqsvVTBcPPwZW1_6uk207SOZbBp6QWYD-zG7qe2vmKMm54Ir5qgEoEtPO4lLav2KaqcRs4ebMeTTjkVl7ZMfGGoatS7KNj7OReKf8udIjIe8BjNJhiVWmiERR2X0YwtNUfyBB8s3vlVwOT5OZ5yfGeGYnLy_oSanMSssfYmr4RuKUr69tQvF6oPHcmu1u3TKs6ks8zXW27Tdq_PA",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJnfWW9RbLWTkR-KNgT1YKjDw",
+      "rating": 4.8,
+      "reference": "ChIJnfWW9RbLWTkR-KNgT1YKjDw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 68,
+      "vicinity": "2nd Ring Rd, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2633415,
+          "lng": 70.7083152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.26471032989272,
+            "lng": 70.70967987989272
+          },
+          "southwest": {
+            "lat": 22.26201067010728,
+            "lng": 70.70698022010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Pavilion Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117131154988995907106\">NEVIL VEKARIYA</a>"
+          ],
+          "photo_reference": "AWn5SU7aMG7CsJyzs_mIkcnxQ1C0Lg6uT2G2BJJHEA-MfKcKPodGBDGSU7xO6IxMhyr2w7ibd4gJtAiddEM8xzkvVkKJk_Uy_-5dtzCH66CYL5Fi6HfQ0KluuO8hVgytodFajVtQSILRP0ED15Kk1ISZgs2Nxs1WOWSq5nLW92YvNbu6xvCJ7pQf7mb0-Jj7R5Px9hZ0EUU2P1tXmv22kaLnHhd-Cr8onev-EUix6qwCrBUo9ESlfJrsttMsM5Ww5xDoi4VkSzzHYufu9eb6DjSORoLxi_ntQLkPvr4nnjDgjkqGJOeo71DwYv0gYtg7CRSBUpXQBdjVXlkjTyEb96iHyilz7UC86sfkVJl3zaGc9MOyrnWRJFb3d_ZbcqbZRoHNKzZQWZzWThEwYHpzNHqmqzxzpEjJ6861iampB1q3wzdmcGcTOfJN4H7_5GuUzmD9urQFS9sAqYklIl98uDzMts9H02TNKDsnzist4IE3xKVj37Cwuue4yYN9y5TDipA7X1XW2i45-jRdgTAd9Oz_puy2o_zvSQr-P2Tjv8K4kH2pJZPXsJvL995gVzQRtyv5RrF397YA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ22dfV_bLWTkRwLujiVSRzEw",
+      "rating": 4.7,
+      "reference": "ChIJ22dfV_bLWTkRwLujiVSRzEw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "bus stop, B/h Virda Vajdi, opp. Dhareshwar Mahadev Temple, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.3236204,
+          "lng": 70.7694599
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.32478122989272,
+            "lng": 70.77083467989273
+          },
+          "southwest": {
+            "lat": 22.32208157010728,
+            "lng": 70.76813502010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rajpath Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113586842840906781822\">rajpathboxcricket</a>"
+          ],
+          "photo_reference": "AWn5SU5kY5sl6DRoDUVkmfOeWR_fMxKrpuhoI9OIbxGbXk9_U_Aq3Qb1Y2NDBC5bCiqePF_13OZNBJq_cIbc2rhrd2qQlCU83UhVDogNDBVzkzeVOPkIMxryCKehn6_zhl05S4vQbGDwn6FApYluBSmLRurpHdNirypnojcvJ_o5q_lmFv46qZOnUQyzcavC2usgH51yNzjZHJ0o9OnZWLg3XRJsE4MfGWCMC7_xnoxN_rQFSnNNc3Z2HLlfYrE3wmrC4UepuQguuT6DKojQziWuqLwQC5WLx91RX4evCxF0_1TBOEK8EtmAbjIsXn5_mOAek85qUr_8QDDgrjLsAHbDjRbg25h24GGHQoRqXaJVC0HN9eYPtDC7ngoQ3JORvjo5K_8FmUBAJgXHq_vDrifp_OpeQdErNwEIVqvuTZzVXEnc9aeLeiFA5plPiWak6-a10X5r2ptew41ga1BaexXfM95I_AsLO1idKhY0EewR1cqEY0zoyIxty5iVn-wFYuVMG3HPn3g-oXFfR3eSpvsxkOhbOz8odhTF_NgGo3495rFCsH3lZoUaM-oxUBEtb7AbZhEC2B0k",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJdRyW9yDJWTkRyJKbVjcTyKk",
+      "rating": 4.3,
+      "reference": "ChIJdRyW9yDJWTkRyJKbVjcTyKk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 114,
+      "vicinity": "Synergy Hospital Road, Ayodhya Chowk, behind Akshar Party Plot, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2612627,
+          "lng": 70.74169069999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.26279067989272,
+            "lng": 70.7430277298927
+          },
+          "southwest": {
+            "lat": 22.26009102010728,
+            "lng": 70.74032807010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 96381 11011",
+      "name": "Akash Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115876969607280504534\">Vrindavan</a>"
+          ],
+          "photo_reference": "AWn5SU78Fh7wgEvDT-EvP5W3Nmon0i44Nr9dNxGn0umF0pSIbA_gBT8SV1s5zysJiokDGQynIy_Ptp57Eb2bysWY9rSzCaG8vI28O_3Yi0PtlCPBcXruC4Vsfb72dHHe4qpAJl9ZHyl70a339GefEQpS4xo16SVE8gaDtCNaCXUBy8z7GsySiq0FXBJ2q5YLa_PTNDgJdMwEFBdkGMSoyfQpjiEieM29MkRLf09l7VA5O-Bohmmbz5NHCa1uxRJkt8B0_-SvGJ6xpfGOsB4kcDIVA_Ps9EdiTkIcLmPqWI6wsltLtw-JXTJJiYfYviKexlnybpOj6rBEbL9-CiSrJbddcd4Qis54SWwDjQr21kd-kKq2uULJbud0KFW4J21yObEQUX6IoVofr91pMQq7bZHVcb_B9xJ4HEpIJa-nBVvhF__7f8xrFWsE7hPIhC1vnDstG7Pi7VPIHQvlS_-BGBQLl_owfWB7hEzyDy9f6MuEQFdsxmBPJY1Ayu68zdc1-JiKpZsst4b8Q6upPS2kAi1LPQ5rexX_MG8hbEf5OkH3QGaoZpQreJ0PIG7iMp9UBAPs08ugIgf8",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJEVGilobLWTkRXnrK-UF6x9g",
+      "rating": 4.7,
+      "reference": "ChIJEVGilobLWTkRXnrK-UF6x9g",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "B/H Akash Party Plot, Opp White Heaven, Sunshine College Road, New, Victoria Gardens Rd, Mota Mava, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2934904,
+          "lng": 70.75082189999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.29496477989272,
+            "lng": 70.75228282989272
+          },
+          "southwest": {
+            "lat": 22.29226512010728,
+            "lng": 70.74958317010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 79906 60717",
+      "name": "SPORTS FIESTA BOX CRICKET",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103672153792802948811\">SPORTS FIESTA BOX CRICKET</a>"
+          ],
+          "photo_reference": "AWn5SU4r_ThzmrSniJ0lMoudlr3QQ3cC0k4CRkqUYxDqHf7C7ngsqbEgIbyhLcFqnREcCnk_M6JhF-zcZR4KUmWP7fLoaWRnSvWc1gzPIVStXpR5vQHio1zzI34C6htxoL1A4QEAnVa0tsZ_an98styLtXgdvGgtCcl9V0QpjEal2BZY_k6uD-xWJ0VXliDh-6sfvj9Rm3xqr-kjYAG0EEJuy54S_DO0lOrDkpZ7MO6BFyH4zhPvnvFdsbvBTdUkuPySjrFkp07EaZ3bAaHXD6qkDQcVsbf5HaQ1pB95URh1Ee0T2zSIT8U",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ4Z1zOaXLWTkR52lcO1YwrqY",
+      "rating": 4.2,
+      "reference": "ChIJ4Z1zOaXLWTkR52lcO1YwrqY",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 133,
+      "vicinity": "Opp T N RAO Cricket Ground, Gangotri Park Main Road, Patidar Chowk, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2715363,
+          "lng": 70.7519964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.27288627989272,
+            "lng": 70.75341107989271
+          },
+          "southwest": {
+            "lat": 22.27018662010728,
+            "lng": 70.75071142010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dwarkesh Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112142443534817738236\">Mk Ahir</a>"
+          ],
+          "photo_reference": "AWn5SU5nvVVptGe1di1ia6YrFog9ReCTfwE3aalFVN6nd0nkVubVtqjmOdsI7OFRc6b4oCMdX-ODXb-YcGV6BaEAObgyRrQV0D_QMD_VyvDkPSWVR36kxHDxEEeF03TofGSRGRH7ljeHlGgvB1-e108Lu7IxT8vJ97AfEw2s1wELTo9_I91Db2JgLm4_LmTiFws6_uFe5U50-iALNu20cDuWdFBi91ZXfhkyQrBXpWwEaMYyKDVTRcGiEKRL23wJrcho4-EnBU2FuGKBSCxJttGwj_FVhSpWskCwS9nfa86wNHSxq_j5R6qXWLF6plzvJsGkF-o6qGMcDllxzWqSpuTQS3FOEP5TRjdpSk3xgwfyTTClfk8sfIHGZdUcIqdmvV96qjdaqSCybQbpZiWG7zqpWl2GvWwvzKg4y6oN0ivvQCPvUa9tksusfGKVpp5obsXGLiA1G4SkCWq2_K9qc-I0AgeBEqexMGbAdUYsUw4MJZX1mgvU-OahY1xVj084MdqMfzmBmCKWLFaWON3AFZrfKyBL7IB2sWQF0vcIqSN_R8A7hzTdEzMIpno-3VdGMHsmBAG77V5JkFGAAa-MbGxeOl3-Dp_12w",
+          "width": 721
+        }
+      ],
+      "place_id": "ChIJOUPXYQDLWTkRMq1hldzkF-4",
+      "rating": 4.9,
+      "reference": "ChIJOUPXYQDLWTkRMq1hldzkF-4",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "beat & bite, food mall, Dharamshi Korat Rd, Mota Mava, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2930638,
+          "lng": 70.749516
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.29443937989272,
+            "lng": 70.75099602989272
+          },
+          "southwest": {
+            "lat": 22.29173972010728,
+            "lng": 70.74829637010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 99045 99499",
+      "name": "BOX & BOUNCE BOX CRICKET",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101276632155695675616\">B&amp;B Box &amp; Bounce</a>"
+          ],
+          "photo_reference": "AWn5SU4ylzK65jszYhof6480iowC3LNDA_nVTNf3_GtihiWiBCUz9dMeT14pOspN3gDpmTbyZC7wcHCA5dlSEKLczIwnAN7EVu3jRVYc0kGLThDUXbfNUlXMP_8djls5LQz40i5CIMRx_qaTaS3UEX5XHnCVXDOFW9H14pGxj8rGDfa-CoTksBgqYb2v4VEKhfPhL8cO-hBRrr3HZwiJYWZDmoQKoi3mNDo-dBahomrVcstqE6jEeZiuzM_3EuoLJYpR-Ce26sbIYrXLDjI99rVhtNTM9Hvt0hY6cukMXxSjSgKA3LtswbYH5CytVQY5rEcX7lV72Jla4MOJdAUyWeWPdfFBur9DMmlrE7oT1gEH7TTW8QAuqLcQVv71uHl7Lc66r_xxvRg3hKLjG0gBdhhTGGVjiJ0HtH_32DaYeRAQKVhVDGHAddkJLDNRVogm6rUAx7NIYcUxhOyQmXo3-y89v1vu48KEZlLj5Odu6-0R0CoQa2OBY9WuQEaRAIkGjNDZD6c3Qn4YdcxFCW0U5CPASQ-O77UJCg18PuS7mkKRgAGgHFTxZ3eZ-NZ3MYw7UpUzVwBWAJ-wp-8img",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ0-phlfrLWTkRYeZhEBZZJkM",
+      "rating": 4.4,
+      "reference": "ChIJ0-phlfrLWTkRYeZhEBZZJkM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 70,
+      "vicinity": "Gangotri Park Main Road, near shilpan Nova, Yogi Nagar, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2728326,
+          "lng": 70.7476053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.27411922989272,
+            "lng": 70.74889337989273
+          },
+          "southwest": {
+            "lat": 22.27141957010728,
+            "lng": 70.74619372010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 95377 95317",
+      "name": "Infinity Sports Club - ISC",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110872012243438258160\">Dharam Patel</a>"
+          ],
+          "photo_reference": "AWn5SU5IfHJbMC79kzXw-f4oscyS5-3pdUQagj64YZw8HjrtU48ZW3wEf0fzEBHH8qK3Sa7CmXM9Lxz87Y0c9cFWNc2e14CMovpqrmgEW4h_xLCvXGnM5MvVUYkN0hDAFDStpLlgv6I-vKcxmtJVwEydYj_ThHXol58fuoxV8D2Wk5Pw6osKvr7T_zSo2lis8IVxsWOvK55G8zH25dffPJk5KWXZcclW7g4TY7fZOEzrOr20cfnYPNYaJ4j9wlAgd6RUud_WMnhR0OtaP9W0qvVPB9AUE5GKPYMm_VoLwtg6V3267wJqFeubV2ZUapCHauZmLmz_UoHkqCxaUjIbyjTaN1-wSrdaVKa_xvHW5T0KIdEF3nNWjNfE3GKowvUmnmStpie5tVrsjr9HY-Q0CwxAg-m23TNPDc_kWc6OY7pBUlLU_DKWwK-sEQh_kdUUyjaN04_DeIXn6EujFH7gxL_qujSmcnvvgx1mBdlctu-Vv8rN4bA1lrK1pLxUiQNgvk9Ww1Qi5F7xMe30Sr54abFLFRo3yM_ssm1BTyMu_IQMpOAS9FxvG0QoJr9_waJ9JQu7jcV5Oz0pb62VVA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJE64Q9cTLWTkRrMJ2KXgiDrk",
+      "rating": 4.4,
+      "reference": "ChIJE64Q9cTLWTkRrMJ2KXgiDrk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 538,
+      "vicinity": "60 Feet Road, opposite Taluka Police Station, near Jalaram Fast Food, Mota Mava, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2695838,
+          "lng": 70.71724999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.27094942989272,
+            "lng": 70.71853587989271
+          },
+          "southwest": {
+            "lat": 22.26824977010728,
+            "lng": 70.71583622010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 97277 77182",
+      "name": "Howzzat Multi Sport Arena",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100931750593756749244\">Ashish Saini</a>"
+          ],
+          "photo_reference": "AWn5SU5biwMvvps42jKQhEK1qKLxeHMaVpRn_rkRZqXE0yRMXMMpjkhK5xnySCvmiDeqscSGfgOirKPXM-BTAPCkTuaaDz3ohpbp7PV7IYtngDAm4fw7HA4zZZcifNsoqJjjxR2Lv6Hv2WN8hu8OoEXjwsh9pBIp3YTW1vtMZdo5iNTDJmleQMoT-pbC6N-5Wwp1N_ki8dq3Q7a40outN4LqZV9V6NPaCtWBWI-d7tCJHjmt57YdRMTuxbQzx8qP0J7_BwhTRja_7gW3S9NbSkqC5LTNc4A3ajKjQv3coQp9T8AFaMOK-dn_TSSacFGYKWJqafx0xPoHNr7tgg6hZY42810O7-XZKln78kSSKBWgER4x3R-8R-QTaj0rKx7ydpgXjR445hddUv1nh8IaFS3_8tJ_hWO2UKppa8Azfj23OXHYMrYZRjR4zb2mCl3d6frY2M_Ayvq04kvYP2Qyo5NcPD8gGSdJj8UvTk8PmstOd-4S76_26iI-YVF2qPxiME3Ybot94NKbR0lbU6LBYdLVq3S5AjhkVPkfO1KneAWGroTbTuWGwvUClOOabUYZaJ5Ljp-syCcU",
+          "width": 1088
+        }
+      ],
+      "place_id": "ChIJ_6wYAgDLWTkRNEvNECZm-GU",
+      "rating": 4.7,
+      "reference": "ChIJ_6wYAgDLWTkRNEvNECZm-GU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "Kalawad Rd, beside SANDHIYA TANU, opp. ACROLAWNS, Rajkot, Vajdi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2848241,
+          "lng": 70.7330242
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28618742989272,
+            "lng": 70.73429597989274
+          },
+          "southwest": {
+            "lat": 22.28348777010728,
+            "lng": 70.73159632010729
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 96241 55048",
+      "name": "Sky Box (Gujarat's Biggest Cricket Ground)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116514478386213204593\">Sky Box (Gujarat&#39;s Biggest Cricket Ground)</a>"
+          ],
+          "photo_reference": "AWn5SU5sXbK36iR8tpP26bwm7jlTcFvhun6n339MDIaYganDh7A7DynSR2XxUGoC5wJgbFHYOLq9vWqt5Zr9JELuwrartRiWkMFC5pn-46o-EKKigZdmxlYLESCUZaIO60E2XHApE8EJJE7xB2zCm1tv1M6GXSqo_Vg716RuoRxIloGT7W5Te0Y5cmmOdqNDKegx8rnOdLWpTe_JvIY-DO5lL7UntHV_zsDjeCxGtgFYMkUPNRCynRvLpDpxRiTJCI0RAQVGABKDz-2V9TEmIFUG0iAV8nzIhC7vM_gcT8TKA9iTXlDDbIA",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJl8GZJaLLWTkRUaZ3ofwPSLU",
+      "rating": 4.6,
+      "reference": "ChIJl8GZJaLLWTkRUaZ3ofwPSLU",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "delight party lawns, New 150 ft, ring road, b/h, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.3253798,
+          "lng": 70.7229886
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.32650372989272,
+            "lng": 70.72491902989272
+          },
+          "southwest": {
+            "lat": 22.32380407010728,
+            "lng": 70.72221937010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 75730 00447",
+      "name": "POWERPLAY BOX CRICKET",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101861215953765414120\">Aditya Shah</a>"
+          ],
+          "photo_reference": "AWn5SU75TLBQ3xoBbqtnuIaXmdhtuClVeINAIQsjG8rVmqCZZf51KcRq04A3FEmytJ3D-tzcaVuDL5NjvukDGZxIofniCmRHKfd9H050rMYbR1mVcO769MrGoF9nHB_e-1ZJmNGU7K1f7_t43ldv-E9h9w28bqtoyxNhAws3zYqLIPZc238tPovsIQS-0lhfvSZ-BMj1FQK2S8NXn637qpGy97Sw-2TRngk6Rn2StweWaXa91-ajZkQUSIX3v-2rW1HjHsf6vhBpvaLxAbeCLEe0agq8IW8sgWFiJyU3nZbVRuusnLRmT-5ix4ZT3TcMqhEPhtrDwHpTGxqCZKm3t9o1JgjVklxdH4A8eJp1IJgqWL9dmKPJErfi48GmfzAKz7kygekXAbEFGhESq1HJm9-0XREwTMmB396KLxoZliR5Myfvn21UcIvWIXdaWYvdRoLyTfy702RIxmphZPYnjmgzlHtYCMwBkiYlX6PrSzYUYGLjW3q1G0cx84j6qDN9-ppUSUdlk6RMP40o6NLAHWKhymrCj3dXHJFHe5i7YxH1JlmRisVxnfLmJIQ_WhNMMB79hCFSF_rX",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJH3T6dwvJWTkRMzN03vBN7xk",
+      "rating": 4.7,
+      "reference": "ChIJH3T6dwvJWTkRMzN03vBN7xk",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 52,
+      "vicinity": "Gokul Party Lawns, New, 150 Feet Ring Rd, opp. Atal Sarovar Road, opp. New Race Course, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2884149,
+          "lng": 70.78950379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28988682989272,
+            "lng": 70.79075547989271
+          },
+          "southwest": {
+            "lat": 22.28718717010728,
+            "lng": 70.78805582010726
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 96621 59959",
+      "name": "Lords Box Cricket virani school",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106266271061551507458\">Ayush Adesara</a>"
+          ],
+          "photo_reference": "AWn5SU4Xx_MU-30bCgsIe_v_M_GIyAc6NHaYxkZSTe9uHV_uIz9V621HdakcAqxgMnlDiE9lWGdt2r_NGeSTI6VWE2i_Uk3dRxqZ1kr5oKBASEhIENaoOKMIDf_G6r182b0lTy0y67IMPSwMu3wCB6pBe7QMyz5zKqqymccafos4BIGpInXgs731Lj0GIYI8OVUkxPRruxctyYT4HeksN01hD3g_ZLVjqqZQSBqqEfpcna4oD3cyMnBgCwidxy-ibuwnjnhEAoA32-hdiVHQLkQVDfYFdy3A87OdJTjRPQuHSL36dwvVONsjRbcxM1Z9xJsgoAcFiO3X04JfsHw2ppRJCHNUnwn8_YoGhOLoiWn-cESe0SnN5AjSBsA2k6L0UJQ9IfJeqaIR6TaC7Kypc1CgVyVB48NC4edlJJ0lCPwS9HluN8bFfFpFa4LQ01ZeQJvR8KfYeZCLrdgVADujq0hopA1BL-rkhRf9xBiPDStY3QTwjWwpRZZh0K4-wKXA4ybonszNlKMC8gY5uugXO_zgXAe7GHQNUthGEk_-dKMs7_TyXa7Nkv12IMhL0EkPQ80JtS9LcjrHDSPg0Q",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJVQS1vf3LWTkRI8Ft8HTuhSw",
+      "rating": 4.3,
+      "reference": "ChIJVQS1vf3LWTkRI8Ft8HTuhSw",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "Virani High School, near, Hemu Gadhvi Hall Rd, Rama Krishan Nagar, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2875369,
+          "lng": 70.7765082
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28888277989272,
+            "lng": 70.77783587989272
+          },
+          "southwest": {
+            "lat": 22.28618312010728,
+            "lng": 70.77513622010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 72270 44099",
+      "name": "The Optimus",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104724540042833262894\">Hardik Sonchhabda</a>"
+          ],
+          "photo_reference": "AWn5SU5yG-KIALhkN7pAQd9AWqrViQJBq_qMA_MJjXAhVjD9Q0mAfPoUOGFL9adYyvYjfW2izee4mIsBT5RTgCxIvgLB5UpuEmW0ZbXA2HRo3zTAtEH3_TOU6m_Fro-BoIIu9xSVhpi5eMaB4YwOocNWef5dp52PaQW-_RJhBk6ybkdKNcvxHNm3N4glq-CxjJJNM-bzJhbtuHkQmr3oCF0qCjZe2xaKxMe1M_rqzZqYSUwLWHFd5uXCqhhlSLQEvsPo_dmrnBsXJZdFHfVVlOLOMScuotAvoB_UdaKu5tc6mf_0XSFBL9PTiJdOxmu9mUomasYfCTvFo6nAw7QpGLTf1jRbnGaxPvcrAn1KJOzYe7aPMEIu7QldbhwFKLlS4WgzpT2SYx10NaNiPpPLicNs41XYYk-9UUuRrJHZ-yaW5f4baqcGNkEx3NTXWgVoC9CWTPtI7nS0gAbNrUT15gi4xrLcIoNcgFXFljtn7yPbp-1Vm_jgp7EzeUNWKlQRnGN37grIKFvEwaMp0WYR4KbAM_pJ7lQ9iSYrUqYAbhwFXU8McW209l-vuY0O6DFH5D1HAIaA4Ail0m1_UA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ90oOpkPLWTkREcZfkFOWtjA",
+      "rating": 4.5,
+      "reference": "ChIJ90oOpkPLWTkREcZfkFOWtjA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "Nr. Babyland Hostel, off, Kalawad Rd, opp. Domino's Pizza | Jala Ram Nagar, Rajkot, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2798669,
+          "lng": 70.7336542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.28122092989272,
+            "lng": 70.73514627989273
+          },
+          "southwest": {
+            "lat": 22.27852127010728,
+            "lng": 70.73244662010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sports Box Cricket",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100524449076962054082\">Manish Soni916</a>"
+          ],
+          "photo_reference": "AWn5SU4YqfMDFF-iQ0yhPY-EMUtjHOF-sUEe0D8lHBePfmcqkrIngXo0prqFwydtIpIHP5q2drTYl97T2nbKUGbtvGXSPJDj5yVi8cTpBojpQmTUZEV_dphjYs9r-99iuo5IiNb_U9k-rd9xTZO3Po_GFj3bm_fkHudKQbEDv9y_Yu1Ihi8n0u5zCwHGtPrDYJ8vwDkMd82bHr9oWVDe5ds_7GdDQTK5Dy51dmnO3JKU-cAIG8xFUZsd0sHCu0JWNI_LL92tXVpaLrzQLZUYOCI3BHuIG6R6tTlVBrfowlVnAkUPFMIJ_1bBBGJul9_aHSNKmrgXZJm9mGmmChZcyi-a3PNn_l7CCuoba-rSp1zO5-G7qIO3BplToBmYdIwoVFg859UAcwkrh4sC67b5_Z12djmna55khrK_DrUX0RQO15ezpdOz6T7sZ2YC6fx6EPJuk3z3WCpSbNurJolRKG7kim7zMDSt2Gpn3WubzQX0jOZ4yYyQ7udS5lR8P23oBq7WNFvLQLZ1QZXiRdLFtMuTAbBw--1vHRWDwcPSB2A0xaBKGlqG4De2Qj_eMXfPS_s-L9jBaA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ3xB0SOHLWTkR6LKSXv8wk1w",
+      "rating": 4.5,
+      "reference": "ChIJ3xB0SOHLWTkR6LKSXv8wk1w",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "Nirvana Rd, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2553501,
+          "lng": 70.7242395
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.25679377989272,
+            "lng": 70.72557277989272
+          },
+          "southwest": {
+            "lat": 22.25409412010728,
+            "lng": 70.72287312010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "THE GIANT CRICKET BOX",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJQ2Fc5v7LWTkRYuC9br0uQ20",
+      "rating": 4.7,
+      "reference": "ChIJQ2Fc5v7LWTkRYuC9br0uQ20",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Asharam ashram road, Rajkot, Vajdi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.3247577,
+          "lng": 70.7678344
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.32610122989272,
+            "lng": 70.76930602989273
+          },
+          "southwest": {
+            "lat": 22.32340157010728,
+            "lng": 70.76660637010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 94272 44035",
+      "name": "Kwickbox Sport (Box Cricket)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102851769458726630734\">Vish_ Patil</a>"
+          ],
+          "photo_reference": "AWn5SU7i2XjstJJXtrEHOXipBY0tODs5nuuwt2W_axIBL4Vtbs9HjSxIXu4BO5jps7lHiCNsRo8WMIAgYPWoTAny0VgFcqAJsSqo_wDKNpkkcE-yirhjsgUUx1P2tOzseDbn95fI7-2GtXQsR7EC2jFctVnhjJGZIF2qyE2KKPJUsSfcvQdA3WEtFL3h_t7_VOyFwBg5o07idI4dxxTHmX6k7grfQ5zKwGfhQUGmJG5QnpSUsxueXjgYjDNfef256GN0OKP0Am77Wb_kbZZCETJ8Lk34bP0-6bjYVkeSDfubPxO5hAaQjOrgogBEChsO_IkZMPrC7P8bpA4kAMqzHMtEFYt7XCJ-Rb8G4_K5WqhO-0bSq96AAEzNcnTmt9gYUUSXDrzGkR2OaumDayzKH95ehRc8wtlI2h0tXhnFCUBvCU_f4svEfvPk2ky6gAyZBLCLiBEg1Yp7t2NVrjuxkfgYG0gtFDqDNUuukpzm7RxIQR4__Xms8_CG93ujtPq8unyz5QM-1evMGaGJ2P1fWzNpA0iDwWxYvgB5CCDWVi1yIWeyf75OFwZjvOF8UuLDLRCXGmR1uG4sR9uHcg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJNYe1DgDJWTkRKfNL2yG72cA",
+      "rating": 4.3,
+      "reference": "ChIJNYe1DgDJWTkRKfNL2yG72cA",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 29,
+      "vicinity": "ChaVala Cafe, Ayodhya Chowk, opp. West Gate-2, Manharpura 1, Madhapar, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2644311,
+          "lng": 70.7581836
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.26563057989272,
+            "lng": 70.75938272989272
+          },
+          "southwest": {
+            "lat": 22.26293092010728,
+            "lng": 70.75668307010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+91 95860 72747",
+      "name": "FWF BOX CRICKET",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109801031245408716774\">Devansh Chovatiya</a>"
+          ],
+          "photo_reference": "AWn5SU6he29zdAdzibRsfpXx7noJwDDLTu1mTBqiauLQfa9gPyeriLopzQ1CkTgom1COlMZ-mnSePHvyh8fqL6tuHAJQna3icZOl6ADMn9JGPHxdMFPcct6EW6Irjet1lFUqzQ7VyfiEZtRxmdhH__jMte5_KC_Uac9SF8jXbs5-r6V7GZZR9xqWFP42GfsMPOSrpKEve082HKjCkYbYQbKAW3pA2oPK7Tc2VsFOLxDmv4ZZt8vCR8ZqKxU8yUQT61r-oyi8dnb4JB_E3EpIP5MeX07fjzPzztgf8yWkRFAKRu1mWKesGy07zz_iSIVFdt3JIvXCYM8ZGtcvgCo3WssyTt5zLwDpOLkVpPW0smTl6GVeOY5vvL4XHtPusN3yeZntoXl1BZcepHOKqmew85bNhUYNV7rBqN1AuKcHOeAAAXhlhAO2G5m4sspagVIaiFrlK1OoDaCzwXNeFdqfpk38Z9mJWTfko5IOYZAo5epSzJZyWt_iMa1TRuRmT6tNQxXHBL2blg-3vQ9SDAQAoRkstMP6QBzxiZUX5Yy92nPpp7Cd9pTpJ7LQMNI31a4whlUdjBbpmRH31U4g9P78HxLaj3wVtryNzQ",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJFc6U9gjLWTkR5LnmDfrVCS8",
+      "rating": 4.8,
+      "reference": "ChIJFc6U9gjLWTkR5LnmDfrVCS8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "speed well party plot, near, behind Khodiyar plot, Mota Mava, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.2980976,
+          "lng": 70.7300623
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.29944052989272,
+            "lng": 70.73136727989272
+          },
+          "southwest": {
+            "lat": 22.29674087010728,
+            "lng": 70.72866762010727
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The lion cricket box",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3780,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102358381936012726140\">A Google User</a>"
+          ],
+          "photo_reference": "AWn5SU6jEWyjyXt76O9KDXLBkdc7ywScZoN0IMNkh3VLQDco8gSHlWbivqE7fFjihtyB9SXjO_shdpdCgLn6u-yy3JHv6uwz5mEaEaNzkpvtQKhbLjx8T77G2ezFW4xU8_4Y7NM_xGzfB4UNxBbQO_tSlIUl-sqjOwQmrqRvvQLmNlEIFcP-MtE8udLRwl1MUd83IwU9o7RMbIsLKo8xrDHK_1iVbAsYix2X2CB0WcGI8J3lUgKG5LMISzy_VV6Zy8IgHjH402Tv4XCwIn_ZH4FJnjz4kTrs6yYpOIY0g5DTeWNg56pueUo",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJaYuVEI_JWTkRhrG9trGy1q8",
+      "rating": 2.2,
+      "reference": "ChIJaYuVEI_JWTkRhrG9trGy1q8",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "behind Krishna kathyavadi hotel, near lion water park, Rajkot"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 22.3156174,
+          "lng": 70.7502457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 22.31689047989272,
+            "lng": 70.75157532989273
+          },
+          "southwest": {
+            "lat": 22.31419082010727,
+            "lng": 70.74887567010728
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "RCC Box Cricket Rajkot",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109787106868661061063\">RCC Box Cricket</a>"
+          ],
+          "photo_reference": "AWn5SU4R5UMHIQJ_KWAGJvWq48TER1QhfU6xuPV4qXmCDIQRmunPxAIw0CROdoZZqoyjzuWmiEaourz1-4tGB84NQMBg_CBDzpNcVe2J6soYvXqkSg05lV0NmmQXxffCtil5sBVhtcImCuQMqiPOUPwPNSTx51dd72BeA9OaNF6nWfDW4slAXuUNm_THjBl9ZvYPLlqDdlAyBoQyO5FesOnkvOGzUxCXPOBuyBwtGGXvbtOgm0qSdXEx5YLk4-GC2yDMZNhIWjIoR4DgyvjD6iNhGdwMtJJgWU3Z8zDYeluS0lcRIq2GLGI",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJRWhUZjLJWTkRQnMWeL0quQM",
+      "rating": 5,
+      "reference": "ChIJRWhUZjLJWTkRQnMWeL0quQM",
+      "scope": "GOOGLE",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Raiya Hill, Atal sarovar road, near Shanti nagar gate, Rajkot"
+    }
+  ]
+}
