@@ -25,7 +25,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://192.168.0.226:5173",
   "https://nonsolidified-annika-criminally.ngrok-free.dev",
-  "https://box-cricket-frotnend.vercel.app" // <--- Added your Vercel App here
+  "https://box-cricket-frotnend.vercel.app",
+  "https://box-cricket-admin-hazel.vercel.app" // <--- Added your Vercel App here
 ];
 
 // 2. Update Express CORS
