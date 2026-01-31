@@ -50,7 +50,7 @@ export const getAllboxes=async(req,res,next)=>{
             type: "Point",
             coordinates: [parseFloat(lng), parseFloat(lat)] // [lng, lat]
           },
-          $maxDistance: 5000 // 5 km radius
+          $maxDistance: 10000 // 5 km radius
         }
       }
     });

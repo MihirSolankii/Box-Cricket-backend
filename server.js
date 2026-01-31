@@ -27,7 +27,7 @@ const allowedOrigins = [
   "https://nonsolidified-annika-criminally.ngrok-free.dev",
   "https://box-cricket-frotnend.vercel.app",
   "https://box-cricket-admin-hazel.vercel.app",
-  "box-cricket-admin-ijek.vercel.app"// <--- Added your Vercel App here
+  "https://box-cricket-admin-ijek.vercel.app"// <--- Added your Vercel App here
 ];
 
 // 2. Update Express CORS
