@@ -23,7 +23,6 @@ router.get('/profile', auth, async (req, res) => { // 1. Use auth middleware and
     
     // 2. For a profile, typically use ID/email from the authenticated user token (req.user)
     const { id } = req.user; 
-    console.log("2. ID being searched in DB:", id);
     
     try {
         // 3. Await the execution of the Mongoose query
@@ -36,19 +35,13 @@ router.get('/profile', auth, async (req, res) => { // 1. Use auth middleware and
             });
         } 
         const friendsname = [];
-        console.log("hello backend data ::::::::", userone);
         await Promise.all(
             userone.friends.map(async (friend) => {
-                console.log("friedns are",friend);
-                
                 const user = await User.findById(friend.toString()).select('name');
-                console.log("your friends are ::", user);
-                const username = user.name;
-                console.log(username);
-                friendsname.push(username);
+                const username = user?.name;
+                if (username) friendsname.push(username);
             })
         );
-        console.log(friendsname);
         
       
         return res.status(200).json({
@@ -69,7 +62,6 @@ router.get('/admin/profile', auth, async (req, res) => { // 1. Use auth middlewa
     
     // 2. For a profile, typically use ID/email from the authenticated user token (req.user)
     const { id } = req.user; 
-    console.log("2. ID being searched in DB:", id);
     try {
        const admin=await Admin.findById(id).select('-password');
        if(!admin){

@@ -2,8 +2,6 @@ import Match from "../models/Match.js";
 
 export default function setupCricketSocket(io) {
   io.on("connection", (socket) => {
-    console.log(`🏏 Socket Connected: ${socket.id}`);
-
     // --- 1. JOIN MATCH ---
     socket.on("joinMatch", async ({ matchId }) => {
       if (!matchId) return;

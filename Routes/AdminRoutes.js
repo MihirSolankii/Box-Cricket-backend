@@ -19,8 +19,6 @@ AdminRouter.put("/add-image/:boxId",auth,isAdmin,upload.single('box-image'), asy
     const filePath = req.file.path;
     const adminId=req.user.id;
     const boxId=req.params.boxId;
-    console.log("file path ::::::",filePath);
-
     try {
         const imageUrl = await uploadtoCloudinary(filePath);
 
@@ -28,11 +26,9 @@ AdminRouter.put("/add-image/:boxId",auth,isAdmin,upload.single('box-image'), asy
         if (!box) {
             return res.status(404).json({ success: false, message: 'Box not found or access denied' });
         }
-        console.log("image url actual is this ",imageUrl.url);
         
         box.images.push(imageUrl.url);
         const updatedbox=await box.save();
-        console.log("image url is ",);
 
         return res.status(200).json({ success: true, message: 'Images added successfully', images: imageUrl,box:updatedbox });
     } catch (error) {

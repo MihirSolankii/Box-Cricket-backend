@@ -151,8 +151,6 @@ export const createSettlement = async (req, res) => {
     // 4. Filter Accepted Invites
     const acceptedInvites = group.invites.filter(i => i.status === "accepted");
     
-    console.log("✅ Accepted Invites:", acceptedInvites); // DEBUG
-    
     const participantsCount = acceptedInvites.length + 1;
     const share = round2(totalAmount / participantsCount);
     
@@ -213,8 +211,6 @@ export const createSettlement = async (req, res) => {
 
       distributed += memberShare;
 
-      console.log(`✅ Adding participant: ${targetNickname} (ID: ${targetUserId})`); // DEBUG
-
       participants.push({
         user: targetUserId,
         nickname: targetNickname,
@@ -224,8 +220,6 @@ export const createSettlement = async (req, res) => {
         transactions: []
       });
     }
-
-    console.log("✅ Final Participants:", participants); // DEBUG
 
     // 5. Save to DB
     const settlement = await Settlement.create({
@@ -282,13 +276,8 @@ export const recordPayment = async (req, res) => {
     const settlement = await Settlement.findById(settlementId);
     if (!settlement) return res.status(404).json({ message: "Settlement not found" });
 
-   console.log(settlement);
     const user= await User.findById(userId);
-    console.log("-------------------------+++++++++++++++++++++++++++",user);
     
-    console.log("user is",user.nickname);
-    
-   
     const participant = settlement.participants.find(
       p => p.nickname === user.nickname
     );
@@ -339,8 +328,6 @@ export const recordPayment = async (req, res) => {
 
   } catch (err) {
     console.error(err);
-    console.log(err);
-    
     res.status(500).json({ message: "Server error" });
   }
 };
@@ -428,10 +415,7 @@ export const getMyPaymentStatus = async (req, res) => {
     if (!settlement) return res.status(404).json({ message: "Settlement not found" });
 
     // 1. Fetch User details to get Nickname (needed for fallback)
-    // We fetch this just in case the ID match fails
     const currentUser = await User.findById(userId);
-    console.log(currentUser);
-    
 
     // 2. Find Participant (Hybrid Strategy)
     const me = settlement.participants.find(p => {
@@ -444,8 +428,6 @@ export const getMyPaymentStatus = async (req, res) => {
 
       return false;
     });
-
-    console.log("Found Participant:", me);
 
     if (!me) {
       return res.status(404).json({ message: "You are not part of this settlement" });

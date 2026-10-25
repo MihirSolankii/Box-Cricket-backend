@@ -15,12 +15,8 @@ export const verifyEmail=async(req,res)=>{
     const {token}=req.query;
     console.log("token is missing or not :::::",token);
     
-    const user =await BaseUser.findOne({verificationToken:token});
-    const users=await User.findOne({verificationToken:token});
+    const user = await BaseUser.findOne({verificationToken:token});
     console.log("user",user);
-    console.log(token);
-    console.log("user is ",users);
-    
     
     if(!user){
          return res.status(400).json({
@@ -31,11 +27,27 @@ export const verifyEmail=async(req,res)=>{
     user.isVerified=true;
     user.verificationToken=undefined;
     await user.save();
-    res.status(200).json({
-        success:true,
-        message:"Email Verified sucessfully"
-    })
 
+    const payload = {
+        email: user.email,
+        id: user._id,
+        role: user.role,
+    };
+    const jwtToken = jwt.sign(payload, process.env.JWT_SECRET, {
+        expiresIn: "24h",
+    });
+
+    res.status(200).json({
+        success: true,
+        message: "Email Verified successfully",
+        token: jwtToken,
+        user: {
+            _id: user._id,
+            name: user.name,
+            email: user.email,
+            role: user.role,
+        }
+    });
 }
 
 export const resendVerification = async (req, res) => {
@@ -73,16 +85,27 @@ export const resendVerification = async (req, res) => {
         pass: process.env.EMAIL_PASS,
       },
     });
+    console.log("transport set");
+    console.log("USER", process.env.EMAIL_USER);
+    console.log("EMail pass", process.env.EMAIL_PASS ? "exists" : "missing");
+    
+    const verifyLink = `${process.env.FRONTEND_URL || "http://localhost:5173"}/verify/${verificationToken}`;
 
-    const verifyLink = `${process.env.BASE_URL}/verify/${verificationToken}`;
-
-    await transporter.sendMail({
-      to: email,
-      subject: "Resend: Verify Your Email",
-      html: `<p>Here is your new verification link:</p>
-             <a href="${verifyLink}">${verifyLink}</a>
-             <p>This link will expire in 1 hour.</p>`,
-    });
+    try {
+        await transporter.sendMail({
+        to: email,
+        subject: "Resend: Verify Your Email",
+        html: `<p>Here is your new verification link:</p>
+               <a href="${verifyLink}">${verifyLink}</a>
+               <p>This link will expire in 1 hour.</p>`,
+      });
+      console.log("mail sent successfully ")
+    } catch (mailErr) {
+      console.error("Error sending verification email:", mailErr.message);
+      console.log("------------------------------------------------------------------");
+      console.log(`[DEV RESEND VERIFICATION LINK]: ${verifyLink}`);
+      console.log("------------------------------------------------------------------");
+    }
 
     res.status(200).json({
       success: true,
@@ -199,10 +222,15 @@ export const  signup = async (req, res) => {
         const existingUser = await BaseUser.findOne({ email });
 
         if (existingUser) {
-            return res.status(400).json({
-                success: false,
-                message: "User Already Exists",
-            })
+            if (existingUser.isVerified) {
+                return res.status(400).json({
+                    success: false,
+                    message: "User Already Exists. Please login.",
+                });
+            } else {
+                // If previously registered but not verified, clean it up to allow re-registration
+                await BaseUser.findByIdAndDelete(existingUser._id);
+            }
         }
 
         // Secured password 
@@ -235,6 +263,10 @@ export const  signup = async (req, res) => {
                 pass: process.env.EMAIL_PASS,
             },
         });
+        console.log("transporter",transporter);
+       ;
+        
+        
       const verifyLink = `${process.env.FRONTEND_URL}/verify/${verificationToken}`;
      try {
   await transporter.sendMail({
@@ -287,11 +319,18 @@ export const  signup = async (req, res) => {
   </div>`,
   });
 } catch (mailError) {
-  console.error("Error sending email:", mailError);
-  return res.status(500).json({
-    success: false,
-    message: "Error sending verification email. Please try again later.",
-  });
+  console.error("Error sending email:", mailError.message || mailError);
+  console.log("------------------------------------------------------------------");
+  console.log(`[DEV VERIFICATION LINK (Open in browser to verify)]:`);
+  console.log(verifyLink);
+  console.log("------------------------------------------------------------------");
+  if (process.env.NODE_ENV === "production") {
+    await Model.findByIdAndDelete(user._id);
+    return res.status(500).json({
+      success: false,
+      message: "Error sending verification email. Please try again later.",
+    });
+  }
 }
 
  const payload={

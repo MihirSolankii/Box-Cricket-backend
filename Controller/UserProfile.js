@@ -5,41 +5,32 @@ import User from '../models/User.js';
     const userId= req.user.id;
     const { nickname, latitude, longitude } = req.body;
 
-    if (!nickname || !latitude || !longitude) {
+    if (!nickname || !nickname.trim()) {
         return res.status(400).json({ 
             success: false,
-            message: 'Nickname, latitude, and longitude are required to complete your player profile.' 
+            message: 'Nickname is required to complete your player profile.' 
         });
     }
     try {
-        // Ensure latitude and longitude are valid numbers
-        const lat = parseFloat(latitude);
-        const lng = parseFloat(longitude);
+        const updateDoc = { nickname: nickname.trim() };
 
-        if (isNaN(lat) || isNaN(lng)) {
-            return res.status(400).json({ 
-                success: false,
-                message: 'Invalid coordinate values.' 
-            });
+        if (latitude !== undefined && longitude !== undefined && latitude !== '' && longitude !== '') {
+            const lat = parseFloat(latitude);
+            const lng = parseFloat(longitude);
+            if (!isNaN(lat) && !isNaN(lng)) {
+                updateDoc.location = {
+                    type: 'Point',
+                    coordinates: [lng, lat]
+                };
+            }
         }
         
         // 2. Find and update the user document
         const updatedUser = await User.findOneAndUpdate(
-            { _id: userId,
-                role:'user'
-             }, 
-            {
-                nickname: nickname,
-                location: {
-                    type: 'Point',
-                    coordinates: [lng, lat] 
-                }
-            },
+            { _id: userId, role: 'user' }, 
+            updateDoc,
             { new: true, runValidators: true } 
         ).select('-password -verificationToken'); 
-
-        console.log("updated user is ",updatedUser);
-        
 
         if (!updatedUser) {
         

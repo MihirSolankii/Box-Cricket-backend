@@ -6,8 +6,6 @@ dotenv.config();
 export const auth = (req, res, next) => {
     try {
         const token =   req.body?.token || req.header("Authorization")?.replace("Bearer ", "");
-      
-      console.log("token at middleware ",token);
   
         if (!token) {
             return res.status(401).json({
@@ -20,22 +18,22 @@ export const auth = (req, res, next) => {
         try {
             const decode = jwt.verify(token, process.env.JWT_SECRET);
 
-            // console.log(decode)
-
             req.user = decode;
             next();
         }
         catch (e) {
+            console.error("JWT verification failed:", e.message);
             return res.status(401).json({
                 success: false,
-                message: "token is invalid"
+                message: "token is invalid",
+                error: e.message
             })
         }
 
     
     }
     catch (err) {
-        console.log(err)
+        console.error("Auth middleware error:", err.message);
         return res.status(401).json({
             success: false,
             message: "Something went wrong while verifying token"
@@ -46,7 +44,6 @@ export const auth = (req, res, next) => {
 export const isUser = (req, res, next) => {
 
     try {
-          console.log("User's Role from Token:", req.user.role); 
         if (req.user.role !== "user") {
             return res.status(401).json({
                 success: false,

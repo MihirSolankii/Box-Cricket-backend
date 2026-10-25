@@ -13,28 +13,52 @@ export const getAllboxes=async(req,res,next)=>{
    const { lat, lng } = req.body;
 
     if (!lat || !lng) {
-      return res.status(400).json({
-        success: false,
-        message: "Latitude and longitude are required"
+      const cacheKey = "boxesList_all";
+      try {
+        const cachedBoxes = await client.get(cacheKey);
+        if (cachedBoxes) {
+          return res.status(200).json({
+            success: true,
+            message: "boxes from cache",
+            boxes: JSON.parse(cachedBoxes),
+            fromCache: true
+          });
+        }
+      } catch (cacheErr) {
+        console.warn("Redis cache read error:", cacheErr.message);
+      }
+
+      const boxes = await Box.find({ isActive: true });
+
+      try {
+        await client.setex(cacheKey, 3600, JSON.stringify(boxes));
+      } catch (cacheErr) {
+        console.warn("Redis cache write error:", cacheErr.message);
+      }
+
+      return res.status(200).json({
+        success: true,
+        boxes,
+        fromCache: false
       });
     }
 
-    console.log("Latitude:", lat, "Longitude:", lng);
-
-    
     // Create a unique cache key based on coordinates
     const cacheKey = `boxesList_${lat}_${lng}`;
     
     // Check if data exists in cache for this specific location
-    const cachedBoxes = await client.get(cacheKey);
-    if (cachedBoxes) {
-      console.log("boxes from cache for coordinates:", lat, lng);
-      return res.status(200).json({
-        success: true,
-        message: "boxes from cache",
-        boxes: JSON.parse(cachedBoxes),
-        fromCache: true
-      });
+    try {
+      const cachedBoxes = await client.get(cacheKey);
+      if (cachedBoxes) {
+        return res.status(200).json({
+          success: true,
+          message: "boxes from cache",
+          boxes: JSON.parse(cachedBoxes),
+          fromCache: true
+        });
+      }
+    } catch (cacheErr) {
+      console.warn("Redis cache read error:", cacheErr.message);
     }
 
     // Fetch fresh data if not in cache
@@ -54,7 +78,6 @@ export const getAllboxes=async(req,res,next)=>{
         }
       }
     });
-      console.log("boxesList are :::",boxes.length);
       
     // Cache with location-specific key for 1 hour
     await client.setex(cacheKey, 3600, JSON.stringify(boxes));
@@ -66,7 +89,7 @@ export const getAllboxes=async(req,res,next)=>{
     });
       
   } catch (error) {
-    console.log("getallboxes error:", error);
+    console.error("getallboxes error:", error);
     return res.status(500).json({
       success: false,
       message: 'Server error while fetching boxes',
@@ -125,7 +148,7 @@ export const getRegsiterdBoxes = async (req, res) => {
         });
 
     } catch (error) {
-        console.log("getallboxes error:", error);
+        console.error("getallboxes error:", error);
         return res.status(500).json({
             success: false,
             message: 'Server error while fetching boxes',
@@ -297,11 +320,6 @@ export const getAllboxDetails = async (req, res) => {
     const cachedData = await client.get(cacheKey);
 //add into redis cache
 if(cachedData){
-  console.log("box details from cache for id:", id);
-  console.log("box detaisl from cache ");
-  
-  
-  
   return res.status(200).json({
     success: true,
     response: JSON.parse(cachedData),

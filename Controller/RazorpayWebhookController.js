@@ -19,8 +19,6 @@ export const razorpayWebhook = async (req, res) => {
       signature,
       webhookSecret
     );
-    console.log(isValid);
-    
 
     if (!isValid) {
       return res.status(400).json({ message: "Invalid webhook signature" });
@@ -28,8 +26,6 @@ export const razorpayWebhook = async (req, res) => {
 
     // Parse AFTER verification
     const event = JSON.parse(body);
-
-    console.log("✅ Webhook Event:", event.event);
 
     if (event.event === "payment.captured") {
       const payment = event.payload.payment.entity;

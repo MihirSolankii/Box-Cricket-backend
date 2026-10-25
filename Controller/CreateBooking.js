@@ -704,7 +704,7 @@ export const createBookingOrder = async (req, res) => {
   });
 
 
-  console.log("razorpay er`ror ",order);
+  console.log("Razorpay order created successfully: ", order);
   
   booking.orderId = order.id;
   await booking.save();

@@ -21,21 +21,15 @@ if(!bookingId,!name){
      return res.status(400).json({ message: "Booking ID and group name are required" });
 }
 
-console.log("here at the createBoking routes ");
-
-
 const booking = await Booking.findById(bookingId);
  if (!booking) {
       return res.status(404).json({ message: "Booking not found" });
     }
-    console.log("box id ",booking.box);
     
    
    if (!booking.user) {
   return res.status(400).json({ message: "Invalid booking data" });
 }
-console.log("booking user",booking.user);
-console.log("request userId",userId);
 
 
 
@@ -74,9 +68,8 @@ if (booking.user.toString() !== userId) {
 );
         
     } catch (error) {
+         console.error("Create group error:", error);
          res.status(500).json({ message: error.message });
-         console.log(error);
-         
     }
 }
 
@@ -95,7 +88,6 @@ export const inviteUserToGroup = async (req, res) => {
 
     const user = await User.findOne({ nickname });
     if (!user) return res.status(404).json({ message: "User not found" });
-    console.log("user",user);
     
   
 
@@ -115,9 +107,8 @@ export const inviteUserToGroup = async (req, res) => {
     await group.save();
     res.status(200).json({ message: "Invite sent" });
   } catch (error) {
+    console.error("Invite user error:", error);
     res.status(500).json({ message: error.message });
-    console.log(error);
-    
   }
 };
 
@@ -330,8 +321,6 @@ export const AcceptUserInvite = async (req, res) => {
     const settlement = await Settlement.findOne({ groupId });
     
     if (settlement) {
-      console.log("Settlement found! Adding new member and recalculating...");
-
       // A. Check if user is already in participants (avoid duplicates)
       const alreadyInSettlement = settlement.participants.some(
         p => p.user && p.user.toString() === userId
@@ -376,7 +365,6 @@ export const AcceptUserInvite = async (req, res) => {
         });
 
         await settlement.save();
-        console.log(`Settlement updated. New share is ₹${newShare}`);
       }
     }
     // ---------------------------------------------------------
@@ -542,13 +530,6 @@ export const getMyGroups = async (req, res) => {
     const userId = req.user.id;
     const userObjectId = new mongoose.Types.ObjectId(userId);
 
-    console.log("userId (string):", userId);
-    console.log("userId (ObjectId):", userObjectId);
-
-    // Check sample group to see its structure
-    const sampleGroup = await Group.findOne();
-    console.log("Sample group:", JSON.stringify(sampleGroup, null, 2));
-
     // Find bookings where user is involved
     const bookings = await Booking.find({
       $or: [
@@ -559,10 +540,7 @@ export const getMyGroups = async (req, res) => {
       ]
     });
 
-    console.log("bookings found:", bookings.length);
-
     const bookingIds = bookings.map(b => b._id);
-    console.log("bookingIds:", bookingIds);
 
     // Find groups where user is admin OR linked to their bookings
     const groups = await Group.find({
@@ -574,11 +552,9 @@ export const getMyGroups = async (req, res) => {
       .populate("bookingId")
       .populate("admin", "nickname");
 
-    console.log("groups found:", groups.length);
-
     res.status(200).json(groups);
   } catch (error) {
-    console.log("error at getMyGroups:", error);
+    console.error("error at getMyGroups:", error);
     res.status(500).json({ message: error.message });
   }
 };
@@ -741,7 +717,7 @@ export const addFriendToGroup = async (req, res) => {
       group 
     });
   } catch (error) {
-    console.log(error);
+    console.error("Add friend error:", error);
     res.status(500).json({ message: error.message });
   }
 };
